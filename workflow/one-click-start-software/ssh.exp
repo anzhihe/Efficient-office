@@ -6,6 +6,7 @@ trap {
     stty rows $rows columns $cols < $spawn_out(slave,name)
 } WINCH
 
+# login info
 set server you-relay-server-host
 set user anzhihe
 set hostname [lindex $argv 0]
