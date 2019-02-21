@@ -1,0 +1,17 @@
+#!/usr/bin/env expect
+#trap sigwinch spawned
+trap {
+    set rows [stty rows]
+    set cols [stty columns]
+    stty rows $rows columns $cols < $spawn_out(slave,name)
+} WINCH
+
+set server you-relay-server-host
+set user anzhihe
+set hostname [lindex $argv 0]
+
+# expect login relay-server
+spawn ssh $user@$server
+expect -re  "relay-shell>"
+send "${hostname}\r"
+interact

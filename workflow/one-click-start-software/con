@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+machine=$1
+expect ~/ssh.exp $machine
+exit
