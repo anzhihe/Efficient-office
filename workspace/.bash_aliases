@@ -103,8 +103,6 @@ openf() {
 
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 
-
-
 export RABBITMQ_HOME=/usr/local/Cellar/rabbitmq/3.7.7_1
 JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home
 PATH=$JAVA_HOME/bin:$PATH:$RABBITMQ_HOME/sbin:.
@@ -112,4 +110,3 @@ CLASSPATH=$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:.
 export JAVA_HOME
 export PATH
 export CLASSPATH
-
