@@ -30,8 +30,10 @@ alias hg='history|grep'
 alias netp='netstat -tulanp'  # 查看服务器端口连接信息
 alias lvim="vim -c \"normal '0\""  # 编辑vim最近打开的文件
 alias tf='tail -f '  # 快速查看文件末尾输出
-# 自动在文件末尾加上 .bak-日期 来备份文件，如 bu nginx.conf
+# 自动在文件末尾加上 .bak-日期 来备份文件，如 bak nginx.conf
 bak() { cp -rp "$@" "$@.bak"-`date +%Y%m%d`; echo "`date +%Y-%m-%d` backed up $PWD/$@"; }
+# 去掉文件末尾所加上的.bak*的内容，如nbak nginx.conf.bak.2099xxx
+nbak() { local tmp="$@"; echo ${tmp%.bak*} | xargs -t -I _ mv $tmp _;}
 # 级联创建目录并进入，如 mcd a/b/c
 mcd() { mkdir -p $1 && cd $1 && pwd ; }
 # 查看去掉#注释和空行的配置文件，如 nocomm /etc/squid/squid.conf
