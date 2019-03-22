@@ -80,6 +80,19 @@ function extract {
 fi
 }
 
+# A bash function to display a growl notification using iTerm's magic
+# escape sequence. This version will work under screen.
+growl() {
+      local msg="\\e]9;\n\n${*}\\007"
+      case $TERM in
+        screen*)
+          echo -ne '\eP'${msg}'\e\\' ;;
+        *)
+          echo -ne ${msg} ;;
+      esac
+      return
+}
+
 #use hsdb
 alias jhsdb='java -classpath  /Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/lib/sa-jdi.jar sun.jvm.hotspot.HSDB'
 
