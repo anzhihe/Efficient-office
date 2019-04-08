@@ -24,7 +24,7 @@ repeat with i from 1 to num_hosts
     end tell
 end repeat
 
--- Login server, use write text can use all command you want
+-- Login server, use write text can execute all command you want
 repeat with n from 1 to num_hosts
 tell session n of current tab of current window
      write text  "/usr/local/bin/con " & (item n of listOfShows)
