@@ -7,7 +7,7 @@
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.png)
 > 使用方法：
-1. use HotKey：
+1. Use HotKey：
 Select the servers name or IP,Press command + g
 2. Use keyword：
 First,copy the name(or ip) of the servers to login
