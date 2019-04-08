@@ -1,4 +1,4 @@
-## 使用PopClip + Alfred 一键登陆服务器(One-click login to server)
+## 使用 PopClip + Alfred 一键登陆服务器(One-click login to server)
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/one-click-login-server/Alfred-Server-demo.gif)
 > 配置信息，根据自己的实际情况修改
 1. con 复制到 /usr/local/bin/ 下并授权
