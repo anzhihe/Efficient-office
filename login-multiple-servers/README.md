@@ -11,8 +11,8 @@
 Select the servers name or IP,Press `Command + g`
 2. Use keyword：
 First, copy the name(or ip) of the servers to login
+3. After that, you can use `Command + Shift + i` or `Command + Option + i` to operate multiple servers
 
-After that, you can use `Command + Shift + i` or `Command + Option + i` to operate multiple servers
 ---
 
 #### 2019-04-06 create by anzhihe
