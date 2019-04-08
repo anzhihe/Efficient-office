@@ -9,5 +9,7 @@
 3. relay.alfredworkflow 可以单独使用登陆服务器
 4. PopClip 使用： https://chegva.com/3417.html
 
+---
+
 #### 2019-02-19 create by anzhihe
 One-click login to server: https://chegva.com
