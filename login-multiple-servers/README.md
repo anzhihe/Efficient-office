@@ -8,10 +8,10 @@
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.png)
 > 使用方法：
 1. Use HotKey：
-Select the servers name or IP,Press command + g
+Select the servers name or IP,Press `command + g`
 2. Use keyword：
-First,copy the name(or ip) of the servers to login
-
+First, copy the name(or ip) of the servers to login
+After that, you can use `command + option + i` or `command + shift + i` to operate multiple tabs
 ---
 
 #### 2019-04-06 create by anzhihe
