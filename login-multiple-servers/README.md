@@ -11,7 +11,7 @@
 Select the servers name or IP,Press `Command + g`
 2. Use keyword：
 First copy the name(or ip) of the servers，Then use alfred to enter the keyword `ag`
-3. After that, you can use `Command + Shift + i` or `Command + Option + i` to operate multiple servers
+3. After that, you can use `Command + Option + i` or `Command + Shift + i` to operate multiple servers
 
 ---
 
