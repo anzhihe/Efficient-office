@@ -108,3 +108,16 @@ export PYENV_ROOT=/usr/local/var/pyenv
 # iterm2背景设置
 # 配置方法：Preferences -> Profiles -> Window -> Background Image 选择一个你喜欢的背景，然后通过Blending调整图片背景的透明度。
 # Zsh use powerlevel9k/powerlevel9k: https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f
+
+# Use Ctrl -z back to Vim
+fancy-ctrl-z () {
+  if [[ $#BUFFER -eq 0 ]]; then
+    BUFFER="fg"
+    zle accept-line
+  else
+    zle push-input
+    zle clear-screen
+  fi
+}
+zle -N fancy-ctrl-z
+bindkey '^Z' fancy-ctrl-z
