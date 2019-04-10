@@ -6,8 +6,8 @@
 > 使用方法：
 1. 安装`PopClip`，解压 Server.popclipextz.zip,双击 Server.popclipext 安装扩展
 2. 需要在服务器执行自定义命令需修改 relay.alfredworkflow bash: `tell current session to write text "/usr/local/bin/con $(echo {query} |awk -F "//" '{print $2}')"`
-3. relay.alfredworkflow 可以单独使用登陆服务器,relay.alfredworkflow 由[alfred-ssh](https://github.com/deanishe/alfred-ssh)修改而来
-4. Server.popclipext 由[Alfred.popclipext](https://github.com/pilotmoon/PopClip-Extensions/blob/master/extensions/Alfred.popclipextz)修改而来
+3. relay.alfredworkflow 可以单独使用登陆服务器,relay.alfredworkflow 由 [alfred-ssh](https://github.com/deanishe/alfred-ssh) 修改而来
+4. Server.popclipext 由 [Alfred.popclipext](https://github.com/pilotmoon/PopClip-Extensions/blob/master/extensions/Alfred.popclipextz) 修改而来
 5. PopClip 使用： https://chegva.com/3417.html
 
 ---
