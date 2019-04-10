@@ -13,4 +13,4 @@
 ---
 
 #### 2019-02-19 create by anzhihe
-One-click login to server: https://chegva.com
+One-click login to server: https://chegva.com/3412.html
