@@ -33,7 +33,7 @@ filetype on
 set t_Co=256
 syntax enable
 syntax on
-colorscheme molokai
+"colorscheme molokai
 
 "tabs
 set tabstop=4
@@ -119,3 +119,6 @@ set hlsearch
 if has("autocmd")
     au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
+
+" 解决插入模式下delete/backspce键失效问题
+set backspace=2
