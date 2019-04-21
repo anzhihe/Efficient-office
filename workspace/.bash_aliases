@@ -34,6 +34,8 @@ alias tf='tail -f '  # 快速查看文件末尾输出
 bak() { cp -rp "$@" "$@.bak"-`date +%Y%m%d`; echo "`date +%Y-%m-%d` backed up $PWD/$@"; }
 # 去掉文件末尾所加上的.bak*的内容，如nbak nginx.conf.bak.2099xxx
 nbak() { local tmp="$@"; echo ${tmp%.bak*} | xargs -t -I _ mv $tmp _;}
+# mv 文件
+mov() { mv "$@"{,.bak-`date +%Y%m%d`}; echo "`date +%Y-%m-%d` moved at $PWD/$@"; }
 # 级联创建目录并进入，如 mcd a/b/c
 mcd() { mkdir -p $1 && cd $1 && pwd ; }
 # 查看去掉#注释和空行的配置文件，如 nocomm /etc/squid/squid.conf
