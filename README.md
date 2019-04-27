@@ -4,10 +4,13 @@
 - 使用Alfred操作文件 ([**Use Alfred operation file**](/file-operation)) · https://chegva.com
 ---
 - 搜索复制文件至剪贴板 ([**Copy files to clipboard**](/copy-files-to-clipboard)) · https://chegva.com/3352.html
+
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/copy-files-to-clipboard/File-Copy-demo.gif)
 ---
 - 一键登陆服务器 ([**One-click login to server**](/one-click-login-server)) · https://chegva.com/3421.html
+
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/one-click-login-server/Alfred-Server-demo.gif)
 ---
 - 一键登陆多服务器 ([**One-click login to multiple servers**](/login-multiple-servers)) · https://chegva.com/3422.html
+
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.gif)
