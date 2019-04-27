@@ -1,4 +1,6 @@
 ## Efficient-office
+- 使用Alfred操作文件([**Use Alfred operation file**])(/file-operation)) · https://chegva.com
+---
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/copy-files-to-clipboard/File-Copy-demo.gif)
 - 搜索复制文件至剪贴板 ([**Copy files to clipboard**](/copy-files-to-clipboard)) · https://chegva.com/3352.html
 ---
