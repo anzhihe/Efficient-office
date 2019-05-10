@@ -1,1 +1,3 @@
-*.* linguist-language=alfred-workflow
+*.alfredworkflow linguist-language=alfred-workflow
+*.png linguist-language=alfred-workflow
+*.gif linguist-language=alfred-workflow
