@@ -4,6 +4,8 @@
 
 - **fg**: use nc to copy the contents of the file in current terminal(iterm) directory to clipboard 
 
+- **fd**: delete the specified file, use with caution 
+
 - **cf**: first copy the text content, then input the file name you want create, the text content will be written to the file in the ~/temp directory 
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/file-operation/File%20Operation.png) 
