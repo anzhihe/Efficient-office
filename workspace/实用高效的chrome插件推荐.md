@@ -5,7 +5,6 @@
 ![chrome_extensions](picture/chrome_extensions.png)
 
 
-
 ## 增强类
 
 1、[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
@@ -40,8 +39,6 @@
 
 冻结暂时用不到的标签页，以便释放系统资源，实用小工具。
 
-
-
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
@@ -72,8 +69,6 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 可以在 github 仓库中搜索想要的信息，不错。
 
-
-
 ## 安全类
 
 1、[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
@@ -96,16 +91,13 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 关闭浏览器时清除浏览器隐私数据，历史记录等，功能不少，就是弹窗烦人，这点差评。
 
-
-
-##Alfred Workflow
+## Alfred Workflow
 
 - [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
 
 - [Search Safari and Chrome Tabs](http://www.packal.org/workflow/search-safari-and-chrome-tabs)
 
 
-
-####参考：
+#### 参考：
 
 - [实用且堪称神器的Chrome插件推荐](https://blog.csdn.net/lgd_guangdong/article/details/80062649)
