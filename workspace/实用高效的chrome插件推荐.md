@@ -39,6 +39,10 @@
 
 冻结暂时用不到的标签页，以便释放系统资源，实用小工具。
 
+9、[书签侧边栏](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh)
+
+在浏览器侧边管理书签栏，体验还是不错的。
+
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
