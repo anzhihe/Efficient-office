@@ -10,7 +10,7 @@
 
 - **cf**：first copy the text content, then input the file name you want create, the text content will be written to the file in the ~/temp directory 
 
-> press `cmd + return` can reveal file in finder/press `shift` preview the file
+> press `cmd + return` can reveal file in finder / press `shift` preview the file
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/file-operation/File%20Operation.png) 
 
