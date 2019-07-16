@@ -4,7 +4,7 @@
 
 - **fd**：move the specified file or folder to the trash
 
-- **fc**：search and copy file to the clipboard · https://chegva.com/3352.html
+- **fc**：[search and copy file to the clipboard](https://chegva.com/3352.html)
 
 - **fg**：use nc to copy the contents of the file in current terminal(iterm) directory to clipboard 
 
@@ -14,4 +14,4 @@
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/file-operation/File%20Operation.png) 
 
-Use Alfred operation file: https://chegva.com
+Use Alfred operation file: https://chegva.com/3485.html
