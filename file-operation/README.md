@@ -1,6 +1,6 @@
 ## 使用 Alfred 高效操作文件(Use Alfred operation file)
 
-- **fp**：search for the file, press enter to copy the file path to the clipboard, then click on the desktop or finder, press `cmd + shift + g` enter the path to find the corresponding file. press `cmd + return` can reveal file in finder
+- **fp**：search for the file, press enter to copy the file path to the clipboard, then click on the desktop or finder, press `cmd + shift + g` enter the path to find the corresponding file
 
 - **fd**：move the specified file or folder to the trash
 
