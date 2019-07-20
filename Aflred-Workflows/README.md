@@ -1,8 +1,4 @@
-
-
-
-
-## 实用 Alfred Workflows 收集推荐
+## 实用高效的 Alfred Workflows 收集推荐
 
 个人目前收集使用的 Alfred Workflows，有好用的请多推荐。
 
@@ -53,3 +49,6 @@
 | [View date in Google calendar](https://github.com/richls/gcal-alfred-workflow) | Also performs simple date navigation using +1d, -1y, etc     |
 | [clc](http://aviaryan.in)                                    | High Precision Scientific Calculator using insect，加强版计算器 |
 
+#### 参考
+- https://github.com/learn-anything/alfred-workflows
+- https://github.com/msoedov/Alfred-collection
