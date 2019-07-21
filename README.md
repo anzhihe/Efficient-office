@@ -1,6 +1,6 @@
 ## Efficient-office
 
-- Alfred Workflows ([Alfred Collect](/Aflred-Workflows))
+- Alfred Workflows ([Alfred Collect](/Aflred-Workflows/workflows))
 ---
 - 一键启动办公软件 ([**One-click start office software**](/one-click-start-software)) · https://chegva.com/3347.html 
 ---
