@@ -1,6 +1,6 @@
 [alias]
     st = status         # Checkout a branch
-	co = checkout       # Checkout a new not yet existing branch
+    co = checkout       # Checkout a new not yet existing branch
     ci = commit         # Commit you changes
     ft = fetch -p       # Fetch from a repository
     pu = push           # Push you changes to repository
