@@ -1,0 +1,14 @@
+Host *
+    User anzhihe
+    ServerAliveInterval 30
+    ControlMaster auto
+    ControlPath /tmp/ssh-%r@%h:%p
+    ControlPersist yes
+    StrictHostKeyChecking=no
+    Compression=yes
+    ForwardAgent=yes
+
+Host github
+    HostName github.com
+    User yourname
+    IdentityFile /Users/anzhihe/.ssh/id_rsa
