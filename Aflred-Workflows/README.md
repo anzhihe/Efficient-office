@@ -45,7 +45,7 @@
 | [QQ Plugin](https://github.com/TKkk-iOSer)                   | 快速搜索好友(群聊)、发送消息                                 |
 | [Emoji search](https://github.com/jsumners/alfred-emoji)     | Copy emoji to the clipboard                                  |
 | [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow) | 搜索成千上万的撕逼斗图表情包。(修改了直接将图片复制至剪贴板，不用再手动粘贴) |
-| [Timezone](https://github.com/lox)                           | Shows time in different cities                               |
+| [Timezone](https://github.com/jaroslawhartman/TimeZones-Alfred)                           | Shows time in different cities                               |
 | [View date in Google calendar](https://github.com/richls/gcal-alfred-workflow) | Also performs simple date navigation using +1d, -1y, etc     |
 | [clc](http://aviaryan.in)                                    | High Precision Scientific Calculator using insect，加强版计算器 |
 
