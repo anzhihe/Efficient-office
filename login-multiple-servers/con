@@ -1,5 +1,51 @@
-#!/usr/bin/env bash
+#!/usr/bin/expect
+#!/bin/bash
 
-machine=$1
-expect ~/ssh.exp $machine
-exit
+#记录执行日志
+#log_file $HOME/log/login.log
+
+#0-关闭日志/1-打开日志
+log_user 0
+
+#### 用户信息 ####
+set user "youusername"
+set pass "youpasswd"
+
+#选择中控机器
+set relay "relay1"
+#set machine "<machine>"
+set machine [lindex $argv 0]
+
+####################
+
+spawn ssh -p 666  -o StrictHostKeyChecking=no -o LogLevel=quiet "$user@relay.xxx.com"
+expect {
+    "Googlekey shield code*" {
+        # 输入
+        expect_user -timeout -1 -re "(.*)\n"
+        set code $expect_out(1,string)
+        send "$code\n";
+        exp_continue;
+    }
+    "Password*" {
+        # 输入密码
+        send "$pass\n" ;
+        exp_continue;
+    }
+    "Option*"  {
+        # 选择中控
+        send "$relay\r";
+        exp_continue;
+    }
+    "$user@*" {
+        # 连接线上机器
+        sleep 0.3
+        send "ssh $machine\n"
+        # exp_continue;
+    }
+    #"$user@$machine*" {
+    #    sleep 0.3
+    #    send "sudo -iu root\n"
+    #}
+}
+interact

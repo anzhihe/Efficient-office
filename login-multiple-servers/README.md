@@ -17,3 +17,5 @@ First copy the name(or ip) of the servers，Then use alfred to enter the keyword
 
 #### 2019-04-06 create by anzhihe
 One-click login to multiple servers: https://chegva.com/3422.html
+
+> 2019/7/23 直接使用con脚本登陆，ssh.exp废弃
