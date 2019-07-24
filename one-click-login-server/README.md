@@ -15,3 +15,4 @@
 One-click login to server: https://chegva.com/3421.html
 
 > 2019/7/23 直接使用con脚本登陆，ssh.exp废弃
+> 2019/7/25 解决终端显示异常的问题

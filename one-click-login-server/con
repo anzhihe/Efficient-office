@@ -1,6 +1,14 @@
 #!/usr/bin/expect
 #!/bin/bash
 
+#解决终端显示异常的问题
+#trap sigwinch spawned
+trap {
+    set rows [stty rows]
+    set cols [stty columns]
+    stty rows $rows columns $cols < $spawn_out(slave,name)
+} WINCH
+
 #记录执行日志
 #log_file $HOME/log/login.log
 
