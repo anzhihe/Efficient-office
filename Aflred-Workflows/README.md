@@ -48,6 +48,7 @@
 | [Timezone](https://github.com/jaroslawhartman/TimeZones-Alfred)                           | Shows time in different cities                               |
 | [View date in Google calendar](https://github.com/richls/gcal-alfred-workflow) | Also performs simple date navigation using +1d, -1y, etc     |
 | [clc](http://aviaryan.in)                                    | High Precision Scientific Calculator using insect，加强版计算器 |
+| [alfred-subnetmask](https://github.com/myokoo/alfred-subnetmask-workflow)                                    | Alfred workflow to calculate subnet mask |
 
 #### 参考
 - https://github.com/learn-anything/alfred-workflows
