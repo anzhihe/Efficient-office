@@ -33,7 +33,8 @@ filetype on
 set t_Co=256
 syntax enable
 syntax on
-"colorscheme molokai
+set background=dark
+colorscheme solarized
 
 "tabs
 set tabstop=4
