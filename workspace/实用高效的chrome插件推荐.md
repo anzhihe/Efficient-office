@@ -101,6 +101,7 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 - [Search Safari and Chrome Tabs](http://www.packal.org/workflow/search-safari-and-chrome-tabs)
 
+`隐藏插件图标`：将鼠标移动到最右侧边上（添加书签的五角星的右侧），鼠标就会变成可拖动的双向箭头，这时单击并向右拖动，即可将插件图标逐个隐藏
 
 #### 参考：
 

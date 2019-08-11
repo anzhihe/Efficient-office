@@ -1,0 +1,14 @@
+[alias]
+    st = status         # Checkout a branch
+    co = checkout       # Checkout a new not yet existing branch
+    ci = commit         # Commit you changes
+    ft = fetch -p       # Fetch from a repository
+    pu = push           # Push you changes to repository
+    ba = branch -a      # List both remote-tracking branches and local branches
+    bd = branch -d      # Delete a branch only if it has been merged
+    dc  = diff --cached # Display the staged changes
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit              # Display Submit log
+    rk = shortlog -sn --no-merges   # Display Contributor ranking
+[user]
+    name = anzhihe
+    email = you@email.com

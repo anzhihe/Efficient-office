@@ -2,8 +2,7 @@
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.gif)
 > 配置信息，根据自己的实际情况修改
 1. con 复制到 /usr/local/bin/ 下并授权
-2. ssh.exp，hosts，relay.scpt 放到 ~ 目录下
-3. 服务器信息放在中转文件 ~/hosts 里
+2. 服务器信息放在中转文件 ~/hosts 里
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.png)
 > 使用方法：
@@ -17,3 +16,7 @@ First copy the name(or ip) of the servers，Then use alfred to enter the keyword
 
 #### 2019-04-06 create by anzhihe
 One-click login to multiple servers: https://chegva.com/3422.html
+
+> 2019/7/23 直接使用con脚本登陆，ssh.exp废弃
+
+> 2019/7/25 解决终端显示异常的问题
