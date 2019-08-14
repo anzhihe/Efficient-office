@@ -43,6 +43,10 @@
 
 在浏览器侧边管理书签栏，体验还是不错的。
 
+10、[自定义光标](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale)
+
+Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏览器的体验。
+
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
