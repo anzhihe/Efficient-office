@@ -245,13 +245,13 @@ openf() {
 
 #alias fzf="~/.fzf/bin/fzf"
 #alias vfzf="vim $(fzf)"
-vfzf(){
+vf(){
     vim $(fzf)
 }
 
 #alias dfzf='cd $(find * -type d | fzf)'
 dfzf(){
-    cd $(find * -type d | fzf)
+    cd $(find "$1" -type d | fzf)
 }
 
 cdf() {
