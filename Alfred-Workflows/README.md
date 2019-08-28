@@ -38,6 +38,7 @@
 | [Dig](https://github.com/phallstrom/AlfredDig)               | Perform DNS lookups using dig                                |
 | [Lookup IP](http://kodango.com)                              | 根据淘宝地址库来查询 IP 地址信息                             |
 | [Show Network Info](https://github.com/jeppestaerk/alfred-show-network-info#readme) | Alfred 3 Workflow - See network info and discover local devices |
+| [alfred-rfc](https://libraries.io/pypi/alfred-rfc) | Search RFCs using alfred |
 | [httpstat](https://github.com/leozhang2018/alfred-httpstat#readme) | httpstat visualizes                                          |
 | [HTTP Status Code](https://github.com/ilstar/http_status_code) | A quick way to check out http status code                    |
 | [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) | Easily find and kill misbehaving processes                   |
