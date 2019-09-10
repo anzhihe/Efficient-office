@@ -12,6 +12,7 @@
 | [StackOverflow](https://github.com/deanishe/alfred-stackoverflow) | Search StackOverflow Questions                               |
 | [Linux Command](https://git.io/linux)                        | 520多个 Linux 命令大全，内容包含 Linux 命令手册、详解、学习，值得收藏的 Linux 命令速查手册 |
 | [进制转换](https://github.com/xiaomingplus/convert)          | 方便快捷的转换进制                                           |
+| [Colors](https://github.com/TylerEich/Alfred-Extras)          | https://github.com/TylerEich/Alfred-Extras                                           |
 | [Chrome Bookmarks](http://github.com/blainesch)              | Search your Chrome bookmarks (really fast!)                  |
 | [Safari and Chrome Tabs](http://clintonstrong.com)           | Search Safari and Chrome Tabs                                |
 | [Pocket for Alfred](https://github.com/fniephaus/alfred-pocket/) | Manage Your Pocket List With Alfred                          |
