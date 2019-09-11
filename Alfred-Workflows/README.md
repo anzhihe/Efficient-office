@@ -29,6 +29,7 @@
 | [start](https://chegva.com/3347.html)                        | 一健启动办公软件                                             |
 | [File Operation](https://chegva.com/3485.html)               | 使用 Alfred 高效操作文件                                     |
 | [Last changed files](https://github.com/oderwat/alfredworkflows) | Lists the last changed or saved files in the Users home directory |
+| [Recent Documents](http://www.packal.org/workflow/recent-documents) | List recently accessed files taken from both OS/X recent docs list and Alfred |
 | [Confluence Quick Search](https://github.com/skleinei/alfred-confluence) | Search for Confluence content and open it.                   |
 | [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) | Very simple workflow to quickly open up AWS Console Services in your browser |
 | [Open with Sublime Text](https://github.com/franzheidl/alfred-workflows) | Open files or folders in Sublime Text (v3)                   |
