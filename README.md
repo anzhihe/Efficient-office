@@ -2,6 +2,8 @@
 
 - Alfred Workflows ([**Alfred Collect**](/Alfred-Workflows)) · https://chegva.com/3488.html
 ---
+- [实用高效的chrome插件推荐](/workspace/实用高效的chrome插件推荐.md)
+---
 - 一键启动办公软件 ([**One-click start office software**](/one-click-start-software)) · https://chegva.com/3347.html 
 ---
 - 使用 Alfred 高效操作文件 ([**Use Alfred operation file**](/file-operation)) · https://chegva.com/3485.html
