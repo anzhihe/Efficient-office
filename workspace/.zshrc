@@ -161,6 +161,11 @@ alias netp='netstat -tulanp'  # 查看服务器端口连接信息
 alias lvim="vim -c \"normal '0\""  # 编辑vim最近打开的文件
 alias tf='tail -f '  # 快速查看文件末尾输出
 alias mtr=/usr/local/sbin/mtr
+alias gst='git st'
+alias gad='git add *'
+alias gps='git push'
+alias gpl='git pull'
+
 # 自动在文件末尾加上 .bak-日期 来备份文件，如 bu nginx.conf
 bak() { cp -rp "$@" "$@.bak"-`date +%Y%m%d`; echo "`date +%Y-%m-%d` backed up $PWD/$@"; }
 # 级联创建目录并进入，如 mcd a/b/c
