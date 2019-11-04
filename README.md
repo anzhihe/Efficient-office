@@ -2,7 +2,7 @@
 
 - Alfred Workflows ([**Alfred Collect**](/Alfred-Workflows)) · https://chegva.com/3488.html
 ---
-- Workspace(/workspace)：Common tools configuration file
+- 常用工具配置([Workspace](/workspace))：Common tools configuration file
 ---
 - [实用高效的chrome插件推荐](/workspace/实用高效的chrome插件推荐.md)
 ---
