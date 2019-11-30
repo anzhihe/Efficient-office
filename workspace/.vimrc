@@ -4,6 +4,8 @@
 "--basic options ----------------------------------
 "set number
 set encoding=utf-8
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
 set fileformat=unix
 set modelines=0
 set autoindent
@@ -11,6 +13,7 @@ set showmode
 set hidden
 set ttyfast
 set title
+set nu
 
 set showcmd
 "set autoread when a file changes
@@ -33,8 +36,8 @@ filetype on
 set t_Co=256
 syntax enable
 syntax on
-set background=dark
-colorscheme solarized
+"set background=dark
+"colorscheme solarized
 
 "tabs
 set tabstop=4
@@ -123,3 +126,28 @@ endif
 
 " 解决插入模式下delete/backspce键失效问题
 set backspace=2
+
+" 设置折叠功能: http://vimcdoc.sourceforge.net/doc/fold.html
+set foldenable
+set foldmethod=manual
+set foldcolumn=0
+set foldlevel=3
+set foldclose=all
+" 用空格键来代替zo和zc快捷键实用开关折叠
+nnoremap <space> @=((foldclosed(line('.')) < 0) ? 'zc' : 'zo')<CR>
+" zo Open a fold(打开折叠)
+" zc Close a fold
+" [z 到当前打开折叠的开始
+" ]z 到当前打开折叠的结束
+" zj 把光标移动到下一个折叠的开始处
+" zk 把光标移动到前一个折叠的结束处
+" zf Fold creation(创建折叠)
+" 折叠10-20行可以使用命令：10G跳到10行然后zf20G
+" zr：打开所有折叠
+" zm：关闭所有折叠
+" ze：删除所有的折叠标签
+" zfap：將游標所在處的那個段落折疊成一行
+" 5zf：	將游標所在處起算 5 行的內容折疊起來
+" 將所要折疊的部份以 Shift+v 標記起來，然以按 zf 就會將標記的內容折疊起來
+" zd 删除当前坐标折叠
+" zD 删除当前坐标中的所有折叠
