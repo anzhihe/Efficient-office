@@ -56,6 +56,7 @@
 | [clc](http://aviaryan.in)                                    | High Precision Scientific Calculator using insect，加强版计算器 |
 | [alfred-subnetmask](https://github.com/myokoo/alfred-subnetmask-workflow)                                    | Alfred workflow to calculate subnet mask |
 | [tldr-alfred](https://github.com/cs1707/tldr-alfred)                                    | Alfred workflow for [tldr](https://github.com/tldr-pages/tldr) |
+| [zdic](https://chegva.com/3649.html)                                    | 使用汉典在线查询古汉语解释，Ancient Chinese explanation inquiry form zdic.net |
 
 #### 参考
 - https://github.com/learn-anything/alfred-workflows
