@@ -10,6 +10,9 @@
 ---
 - 使用 Alfred 高效操作文件 ([**Use Alfred operation file**](/file-operation)) · https://chegva.com/3485.html
 ---
+- 使用汉典在线查询古汉语解释 ([**Ancient Chinese explanation inquiry form zdic.net**](/ancient-chinese-zdic)) · https://chegva.com/3649.html
+![image](https://github.com/anzhihe/Efficient-office/blob/master/ancient-chinese-zdic/zdic.gif)
+---
 - 搜索复制文件至剪贴板 ([**Copy files to clipboard**](/copy-files-to-clipboard)) · https://chegva.com/3352.html
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/copy-files-to-clipboard/File-Copy-demo.gif)
 ---
