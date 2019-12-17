@@ -57,6 +57,7 @@
 | [alfred-subnetmask](https://github.com/myokoo/alfred-subnetmask-workflow)                                    | Alfred workflow to calculate subnet mask |
 | [tldr-alfred](https://github.com/cs1707/tldr-alfred)                                    | Alfred workflow for [tldr](https://github.com/tldr-pages/tldr) |
 | [zdic](https://chegva.com/3649.html)                                    | 使用汉典在线查询古汉语解释，Ancient Chinese explanation inquiry form zdic.net |
+| [China weather](https://github.com/m2nlight/ChinaWeather-workflow)                                    | An Alfred workflow that can search china weather. |
 
 #### 参考
 - https://github.com/learn-anything/alfred-workflows
