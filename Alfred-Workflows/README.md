@@ -58,6 +58,7 @@
 | [tldr-alfred](https://github.com/cs1707/tldr-alfred)                                    | Alfred workflow for [tldr](https://github.com/tldr-pages/tldr) |
 | [zdic](https://chegva.com/3649.html)                                    | 使用汉典在线查询古汉语解释，Ancient Chinese explanation inquiry form zdic.net |
 | [China weather](https://github.com/m2nlight/ChinaWeather-workflow)                                    | An Alfred workflow that can search china weather. |
+| [CodeVar](https://github.com/xudaolong/CodeVar)                                    | 生成可用的代码变量 (CodeVar that return u a better variable from Chinese to English . )  |
 
 #### 参考
 - https://github.com/learn-anything/alfred-workflows
