@@ -59,6 +59,8 @@
 | [zdic](https://chegva.com/3649.html)                                    | 使用汉典在线查询古汉语解释，Ancient Chinese explanation inquiry form zdic.net |
 | [China weather](https://github.com/m2nlight/ChinaWeather-workflow)                                    | An Alfred workflow that can search china weather.(将温度修改成由低到高显示，添加空气质量指标提示，更符合使用习惯) |
 | [CodeVar](https://github.com/xudaolong/CodeVar)                                    | 生成可用的代码变量 (CodeVar that return u a better variable from Chinese to English . )  |
+| [CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert)                                    |  汇率转换 convert currency conveniently  |
+| [douban](https://github.com/h3l/douban-workflow)                                    | 查询豆瓣书籍和电影 |
 
 #### 参考
 - https://github.com/learn-anything/alfred-workflows
