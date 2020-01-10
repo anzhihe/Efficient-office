@@ -10,6 +10,9 @@
 ---
 - 使用 Alfred 高效操作文件 ([**Use Alfred operation file**](/file-operation)) · https://chegva.com/3485.html
 ---
+- 历史上的今天 ([**today-in-history**](/today-in-history)) · https://chegva.com/3675.html
+![image](https://github.com/anzhihe/Efficient-office/blob/master/today-in-history/history.gif)
+---
 - 使用汉典在线查询古汉语解释 ([**Ancient Chinese explanation inquiry form zdic.net**](/ancient-chinese-zdic)) · https://chegva.com/3649.html
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/ancient-chinese-zdic/zdic.gif)
 ---
