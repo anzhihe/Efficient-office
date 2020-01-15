@@ -6,4 +6,4 @@ example:  input ls or ls 6/4，Enter jump to page，详情请查看：https://ch
 
 ---
 #### 2020-01-10 create by anzhihe
-- 添加多线程下载图片
+- 2020-01-15 添加多线程下载图片
