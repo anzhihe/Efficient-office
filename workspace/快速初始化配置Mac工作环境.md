@@ -1,0 +1,178 @@
+
+
+## 快速初始化配置Mac工作环境
+
+## 1.Mac系统设置
+
+- [写给小白看的Mac入门教程](https://zhuanlan.zhihu.com/p/32326941)
+
+- [油管：Mac入门教堂](https://www.youtube.com/watch?v=2lJaUjPyUBM&list=PLlgjPYA-Byn_Y76iuJvqK9Gc96tQdk7Yk&index=1)
+
+- 触控板：[触控板原来还有这些功能](https://sspai.com/post/44173)
+
+- 屏保、触发角：[Mac自定义动态个性屏幕保护程序](https://chegva.com/3362.html)
+
+- 开机启动程序：用户与群组 -> 登录项
+
+- 辅助功能
+
+  鼠标与触控板 -> 触控板选项 -> 滚动：带惯性，启动拖移：`三指拖移`
+
+- 关闭自动更新，可选
+
+- [Mac键盘快捷键](https://chegva.com/2459.html)
+
+
+
+## 2.必备软件配置
+
+- 输入法：[Mac鼠须管五笔输入法安装及自定义配置](https://chegva.com/3282.html) 
+
+- 浏览器：[Chrome](https://www.google.cn/chrome/) ，登陆google账号将扩展插件，书签同步。[Firefox](https://www.mozilla.org/zh-CN/firefox/new/)安装备用
+  
+- [实用高效的 Chrome 插件推荐](https://chegva.com/3472.html)
+  
+- Mac包管理工具：[brew](https://brew.sh/index_zh-cn.html)
+
+- 终端：[iterm](https://www.iterm2.com/)，配置好字体，背景，颜色
+
+  导出iterm配置：
+
+  - `iTerm -> Preferences -> Profiles -> Other Actions -> Copy All Profiles as JSON`(复制全部了配置)
+
+  导入iterm配置：
+
+  - `cp ~/Downloads/iterm2.json ~/Library/Application\ Support/iTerm2/DynamicProfiles/`
+
+  iterm使用：
+
+  - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki)
+  - [打造漂亮又好用的zsh环境](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
+  - [iterm常用快捷键及添加rz、sz传文件功能](https://chegva.com/2776.html)
+
+- 微信，QQ，Zoom，Telegram：自行下载即可
+
+- [Alfred](https://www.alfredapp.com/)
+
+  - [将Alfred Workflows导出至新机器](https://chegva.com/3489.html)
+  - [实用高效的 Alfred Workflows 收集推荐](https://chegva.com/3488.html)
+
+- [Snap](https://itunes.apple.com/cn/app/id418073146?mt=12)
+
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：将原来机器上的配置导过来即可
+
+- [v2ray](https://www.v2ray.com/)
+
+
+
+## 3.工具软件推荐
+
+- [PopClip——简单高效的增强神器](https://chegva.com/3417.html)
+
+- [aText](https://www.trankynam.com/atext/)：输入增强工具
+
+- [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
+
+- [LICEcap](https://www.cockos.com/licecap/)：录制gif
+
+- [BetterTouchTool](https://folivora.ai/)：触摸板神器
+
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/)：改键神器
+
+- [CheatSheet](https://www.macupdate.com/app/mac/43222/cheatsheet)：查看软件快捷键
+
+- [Bartender](https://www.macbartender.com/)：图标隐藏
+
+- [Typora](https://www.typora.io/)：Markdown、文档编辑器
+
+- [Atom](https://atom.io/)
+
+- [Sublime Text](https://www.sublimetext.com/)
+
+- [Clearview](https://xclient.info/s/clearview.html)：Pdf阅读器
+
+- [Smart Converter Pro](https://www.shedworx.com/smart-converter-pro)：格式转换
+
+- [Any Video Converter Pro](https://www.any-video-converter.com/products/for_mac/)
+
+- [Wireshark](https://www.wireshark.org/)：抓包工具
+
+- [Charles](https://www.charlesproxy.com/)
+
+- [IINA](https://iina.io/)：播放器
+
+- [Shazam](https://www.shazam.com/zh)：音乐播放器
+
+- [网易云音乐](https://music.163.com/)
+
+- [QQ音乐](https://y.qq.com/)
+
+- [Free Download Manager](https://www.freedownloadmanager.org/zh/)：下载器
+
+- [CleanMyMac](https://macpaw.com/cleanmymac)：系统清理工具
+
+- [DrCleaner](https://www.trendmicro.com/zh_tw/forHome/products/drcleaner.html)
+
+- [iStat Menus](https://bjango.com/mac/istatmenus/)：系统状态监控工具
+
+- [1Password](https://1password.com/zh-cn/)：密码管理
+
+- [Outlook](https://outlook.live.com/owa/)：邮件客户端
+
+- [MindNode](https://mindnode.com/)：脑图
+
+- [OmniFocus](https://www.omnigroup.com/)：办公工具
+
+- OmniGraffle
+
+- OmniOutliner
+
+- OmniPlan
+
+- [Telegram](https://telegram.org/)：通讯工具
+
+- [Potato](https://potato.im/)
+
+- [Postman](https://www.postman.com/)：调试工具
+
+- [Paw](https://paw.cloud/)
+
+- [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具
+
+- [VSCode](https://code.visualstudio.com/)
+
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)
+
+- [Dash](https://kapeli.com/dash)
+
+- [Beyond Compare](https://www.scootersoftware.com/)
+
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)：切换绑定hosts
+
+- [TeamViewer](https://www.teamviewer.cn/cn/)：远程登陆客户端
+
+- [Resilio Sync](https://www.resilio.com/platforms/desktop/)：分布式网盘
+
+- [百度网盘](https://pan.baidu.com/)
+
+- [Tor Browser](https://www.torproject.org/download/)：洋葱
+
+- [网易MuMu](https://mumu.163.com/)：模拟器
+
+- Office三件套：word、excel、powerpoint
+
+
+
+
+### 参考：
+
+- [初始化macOS苹果系统【MAC | WIN双系统】](https://mp.weixin.qq.com/s/V3Q8HV7g1eY58wBCreBY8g)
+- [如何快速上手Mac](https://mp.weixin.qq.com/s/MUFzmUDreTLylt0hk4yAMw)
+- [Mac 开发配置手册](https://mp.weixin.qq.com/s/c5qzRqi8-Y5RXWOviALCmw)
+- [超实用高效 MacBook 工作环境配置！](https://mp.weixin.qq.com/s/d7wPuO__x2ecrSqBFVvM0A)
+- [2020 搞个 Mac 玩玩吧！](https://mp.weixin.qq.com/s/HpxzVOZYhm0flf3ziANcGg)
+- [推荐一些 Mac 上比较好用的软件](https://mp.weixin.qq.com/s/Q2IEE4t3naR6j3iP78V29g)
+- [Mac工作使用](https://chegva.com/tag/mac/)
+
+
+

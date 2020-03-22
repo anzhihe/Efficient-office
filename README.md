@@ -1,5 +1,7 @@
 ## Efficient-office
 
+- [快速初始化配置Mac工作环境](/workspace/快速初始化配置Mac工作环境.md)
+---
 - Alfred Workflows ([**Alfred Collect**](/Alfred-Workflows)) · https://chegva.com/3488.html
 ---
 - 常用工具配置([Workspace](/workspace))：Common tools configuration file
