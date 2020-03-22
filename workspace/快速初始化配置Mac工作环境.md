@@ -162,8 +162,8 @@
 
 - [网易MuMu](https://mumu.163.com/)：模拟器
 
-- Office三件套：word、excel、powerpoint
-＜/br＞
+- Office三件套：word、excel、powerpoint  
+
 ### 参考：
 
 - [初始化macOS苹果系统【MAC | WIN双系统】](https://mp.weixin.qq.com/s/V3Q8HV7g1eY58wBCreBY8g)
