@@ -2,6 +2,7 @@
 
 ## 快速初始化配置Mac工作环境
 
+![image](https://github.com/anzhihe/Efficient-office/blob/master/workspace/picture/mac.png)
 
 ## 1.Mac系统设置
 
