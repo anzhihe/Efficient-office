@@ -2,6 +2,7 @@
 
 ## 快速初始化配置Mac工作环境
 
+
 ## 1.Mac系统设置
 
 - [写给小白看的Mac入门教程](https://zhuanlan.zhihu.com/p/32326941)
@@ -21,6 +22,7 @@
 - 关闭自动更新，可选
 
 - [Mac键盘快捷键](https://chegva.com/2459.html)
+
 
 
 
@@ -62,6 +64,7 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：将原来机器上的配置导过来即可
 
 - [v2ray](https://www.v2ray.com/)
+
 
 
 
@@ -160,6 +163,7 @@
 - [网易MuMu](https://mumu.163.com/)：模拟器
 
 - Office三件套：word、excel、powerpoint
+
 
 
 
