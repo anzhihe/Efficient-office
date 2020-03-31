@@ -103,6 +103,8 @@
 
 - [Charles](https://www.charlesproxy.com/)
 
+- [Proxifier](https://www.proxifier.com/)：代理转发
+
 - [IINA](https://iina.io/)：播放器
 
 - [Shazam](https://www.shazam.com/zh)：音乐播放器
