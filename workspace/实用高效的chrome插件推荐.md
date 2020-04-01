@@ -55,7 +55,7 @@ All In One的前端实用工具集，谁用谁知道！
 
 2、[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-脚本运行神器，看起来很屌的样子，可我不会，留着以后学习。
+脚本运行神器，油管/b站视频随便下。
 
 3、[WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related)
 
@@ -80,6 +80,10 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 8、[IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 
 在标签页中以IE内核显示网页,主要是政府，学校等一些网站用，mac上不需要安装虚拟机了，不过有点慢，需账号登陆下
+
+9、[Video | GIF Downloader for Twitter](https://chrome.google.com/webstore/detail/video-gif-downloader-for/pkjcnglcgiacokoihlhjingbhhlbkjfn)
+
+下载推特上的小视频和GIf
 
 ## 安全类
 
