@@ -167,6 +167,10 @@
 
 - Office三件套：word、excel、powerpoint
 
+- [VideoScribe](https://www.videoscribe.co/en/)：视频制作
+
+- [Inkscape](https://inkscape.org/)：图形编辑
+
 
 ### 参考：
 
