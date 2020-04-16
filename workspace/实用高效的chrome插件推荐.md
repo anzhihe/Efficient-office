@@ -111,6 +111,10 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 当你从网上下载某个文件前会弹出安全询问，或者右击某个超链接时，可以方便提交到 VT 进行扫描
 
+7、[Ghelper](http://googlehelper.net/)
+
+科学上网, for developers, cross-border workers, and research institutes to secure and speed Internet surfing.
+
 ## Alfred Workflow
 
 - [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
