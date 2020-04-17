@@ -169,7 +169,10 @@
 
 - [VideoScribe](https://www.videoscribe.co/en/)：视频制作
 
+- [iMovie](https://support.apple.com/imovie)：视频编辑
+
 - [Inkscape](https://inkscape.org/)：图形编辑
+
 
 
 ### 参考：
