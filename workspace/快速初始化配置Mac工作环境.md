@@ -171,6 +171,8 @@
 
 - [iMovie](https://support.apple.com/imovie)：视频编辑
 
+- [Vlc](https://www.videolan.org/vlc/index.html)：VLC media player
+
 - [Inkscape](https://inkscape.org/)：图形编辑
 
 
