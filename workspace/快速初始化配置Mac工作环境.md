@@ -167,9 +167,13 @@
 
 - Office办公套件：word、excel、powerpoint、visio
 
+- [Final Cut Pro](https://www.apple.com.cn/final-cut-pro/)：专业视频制作
+
 - [VideoScribe](https://www.videoscribe.co/en/)：视频制作
 
 - [iMovie](https://support.apple.com/imovie)：视频编辑
+
+- [ArcTime](https://arctime.org/index.html)：字幕制作
 
 - [Vlc](https://www.videolan.org/vlc/index.html)：VLC media player
 
