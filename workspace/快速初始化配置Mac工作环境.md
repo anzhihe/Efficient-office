@@ -181,6 +181,8 @@
 
 - [Inkscape](https://inkscape.org/)：图形编辑
 
+- [Google Earth](https://www.google.com/earth/)：谷歌地球
+
 
 
 ### 参考：
