@@ -65,6 +65,7 @@
 | [douban](https://github.com/h3l/douban-workflow)                                    | 查询豆瓣书籍和电影 |
 
 #### 参考
+- http://alfredworkflow.com/
+- http://www.packal.org/
 - https://github.com/learn-anything/alfred-workflows
 - https://github.com/msoedov/Alfred-collection
-- http://alfredworkflow.com/
