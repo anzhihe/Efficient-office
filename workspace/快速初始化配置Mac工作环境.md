@@ -77,7 +77,13 @@
 
 - [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
 
+- [Jietu](https://jietu.qq.com/)：便捷的截图工具
+
 - [LICEcap](https://www.cockos.com/licecap/)：录制gif
+
+- [iText](https://en.toolinbox.net/iText/)：图像转文字工具
+
+- [TinyCal](https://apps.apple.com/us/app/%E5%B0%8F%E5%8E%86-%E5%B0%8F%E8%80%8C%E7%BE%8E%E7%9A%84%E6%97%A5%E5%8E%86/id1114272557?mt=12)：小而美的日历
 
 - [BetterTouchTool](https://folivora.ai/)：触摸板神器
 
@@ -189,6 +195,7 @@
 
 - [初始化macOS苹果系统【MAC | WIN双系统】](https://mp.weixin.qq.com/s/V3Q8HV7g1eY58wBCreBY8g)
 - [如何快速上手Mac](https://mp.weixin.qq.com/s/MUFzmUDreTLylt0hk4yAMw)
+- [程序员的macOS系列：精选Mac App](https://ihtcboy.com/2018/07/15/2018-07-15_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E7%B2%BE%E9%80%89MacApp/)
 - [Mac 开发配置手册](https://mp.weixin.qq.com/s/c5qzRqi8-Y5RXWOviALCmw)
 - [超实用高效 MacBook 工作环境配置！](https://mp.weixin.qq.com/s/d7wPuO__x2ecrSqBFVvM0A)
 - [2020 搞个 Mac 玩玩吧！](https://mp.weixin.qq.com/s/HpxzVOZYhm0flf3ziANcGg)
