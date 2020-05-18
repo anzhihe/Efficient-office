@@ -1,4 +1,4 @@
-## Alfred Workflow - Iterm Run Command(Alfred workflow使用iterm执行命令)
+## Alfred Workflow - iTerm Run Command(Alfred workflow使用iterm执行命令)
 
 Alfred workflow to run command in iterm session.
 
