@@ -21,6 +21,7 @@
 | [Mail.app Search](http://alfredapp.com)                      | Search Mail.app by author, content or subject line           |
 | [TerminalFinder](http://www.ienno.de)                        | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2) and vice versa |
 | [iTerm Sessions](https://github.com/madvas/alfred-iterm-sessions) | Quickly select of one currently opened iTerm sessions        |
+| [iTerm Run Command](https://github.com/anzhihe/Efficient-office/tree/master/iterm-run-command) | Alfred workflow to run command in iterm session |
 | [SwitchHosts](https://oldj.github.io/SwitchHosts/)           | SwitchHosts quickly!                                         |
 | [ssh](https://github.com/deanishe/alfred-ssh)                | Open SSH Connection                                          |
 | [relay](https://chegva.com/3421.html)                        | ssh登陆服务器(修改了iterm session打开方式)                   |
