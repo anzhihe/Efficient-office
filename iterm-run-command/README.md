@@ -8,10 +8,10 @@ Install the workflow and type one of the following keyword on Alfred:
 
 ### iTerm
 
-Usage：`runc/runn` [command]
+Usage：`rc/rn` [command]
 
-- `runc`: execute command in current iterm session.carefully use, there are risks！
-- `runn`: execute command in new iterm session
+- `rc`: execute command in current iterm session.carefully use, there are risks！
+- `rn`: execute command in new iterm session
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/iterm-run-command/iterm-run-command.gif)
 ---
