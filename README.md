@@ -8,7 +8,7 @@
 ---
 - [实用高效的chrome插件推荐](/workspace/实用高效的chrome插件推荐.md)
 ---
-- Alfred workflow使用iterm执行命令 ([**Iterm Run Command**](/iterm-run-command)) 
+- Alfred workflow使用iterm执行命令 ([**iTerm Run Command**](/iterm-run-command)) 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/iterm-run-command/iterm-run-command.gif)
 ---
 - 一键启动办公软件 ([**One-click start office software**](/one-click-start-software)) · https://chegva.com/3347.html 
