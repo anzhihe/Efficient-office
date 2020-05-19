@@ -17,3 +17,4 @@ Usage：`rc/rn` [command]
 ---
 #### 2020-05-18 create by anzhihe
 
+- When iterm does not start, wake up iterm and then execute the command. 2020-05-20
