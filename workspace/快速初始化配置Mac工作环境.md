@@ -83,6 +83,8 @@
 
 - [iText](https://en.toolinbox.net/iText/)：图像转文字工具
 
+- [Get Plain Text](https://apps.apple.com/us/app/get-plain-text/id508368068?mt=12)：清除剪切版中文本格式
+
 - [TinyCal](https://apps.apple.com/us/app/%E5%B0%8F%E5%8E%86-%E5%B0%8F%E8%80%8C%E7%BE%8E%E7%9A%84%E6%97%A5%E5%8E%86/id1114272557?mt=12)：小而美的日历
 
 - [BetterTouchTool](https://folivora.ai/)：触摸板神器
@@ -188,6 +190,12 @@
 - [Inkscape](https://inkscape.org/)：图形编辑
 
 - [Google Earth](https://www.google.com/earth/)：谷歌地球
+
+- [GoldenDict](http://www.goldendict.org/)：专业字典软件
+
+- [GoldenPassport](https://github.com/stanzhai/GoldenPassport)：谷歌认证客气端
+
+- [Solid Converter Mac](https://www.mac-pdf-converter.com/zh/)：pdf转Microsoft office文档工具
 
 
 
