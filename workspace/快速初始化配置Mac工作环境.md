@@ -205,6 +205,7 @@
 - [如何快速上手Mac](https://mp.weixin.qq.com/s/MUFzmUDreTLylt0hk4yAMw)
 - [程序员的macOS系列：精选Mac App](https://ihtcboy.com/2018/07/15/2018-07-15_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E7%B2%BE%E9%80%89MacApp/)
 - [Mac 开发配置手册](https://mp.weixin.qq.com/s/c5qzRqi8-Y5RXWOviALCmw)
+- [Mac 快速入门操作指南](https://github.com/wangriyu/wangriyu.github.io/issues/4)
 - [超实用高效 MacBook 工作环境配置！](https://mp.weixin.qq.com/s/d7wPuO__x2ecrSqBFVvM0A)
 - [2020 搞个 Mac 玩玩吧！](https://mp.weixin.qq.com/s/HpxzVOZYhm0flf3ziANcGg)
 - [推荐一些 Mac 上比较好用的软件](https://mp.weixin.qq.com/s/Q2IEE4t3naR6j3iP78V29g)
