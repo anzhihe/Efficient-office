@@ -68,5 +68,6 @@
 #### 参考
 - http://alfredworkflow.com/
 - http://www.packal.org/
+- https://www.alfredforum.com/forum/3-share-your-workflows/ 
 - https://github.com/learn-anything/alfred-workflows
 - https://github.com/msoedov/Alfred-collection
