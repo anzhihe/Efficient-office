@@ -16,6 +16,7 @@
 | [Chrome Bookmarks](http://github.com/blainesch)              | Search your Chrome bookmarks (really fast!)                  |
 | [Safari and Chrome Tabs](http://clintonstrong.com)           | Search Safari and Chrome Tabs (添加复制url网址至剪切版功能)                               |
 | [Alfred Chrome History Workflow](https://github.com/tupton/alfred-chrome-history)           | Search Chrome History                              |
+| [copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred)           | copy browser's URL and title with various formats like markdown, anchor tag |
 | [Pocket for Alfred](https://github.com/fniephaus/alfred-pocket/) | Manage Your Pocket List With Alfred                          |
 | [Outlook Search](https://github.com/xeric/alfred-outlook)    | Outlook Mail Search                                          |
 | [Mail.app Search](http://alfredapp.com)                      | Search Mail.app by author, content or subject line           |
