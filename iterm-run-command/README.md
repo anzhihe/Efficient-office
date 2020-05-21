@@ -14,7 +14,8 @@ Usage：`rc/rn` [command]
 - `rn`: execute command in new iterm session
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/iterm-run-command/iterm-run-command.gif)
+> 使用详情：https://chegva.com/3774.html
 ---
-#### 2020-05-18 create by anzhihe
+#### 2020-05-18 create by anzhihe 
 
 - When iterm does not start, wake up iterm and then execute the command. 2020-05-20
