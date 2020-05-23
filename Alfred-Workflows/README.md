@@ -40,6 +40,7 @@
 | [Open with Sublime Text](https://github.com/franzheidl/alfred-workflows) | Open files or folders in Sublime Text (v3)                   |
 | [Omnifocus Create](http://www.davidverhasselt.com/omnifocus-workflow) | Create tasks in OmniFocus                                    |
 | [Search OmniFocus](rhydlewis.net)                            | Search for OmniFocus tasks from Alfred                       |
+| [Bear](https://github.com/chrisbro/alfred-bear)                            | Search and Create notes in Bear(添加搜索复制笔记至剪贴版)                       |
 | [Network Tools](https://github.com/fniephaus/alfred-network) | Collection of some useful network commands，添加了nmap、traceroute、mtr，与mac版本有关，无法获取信息修改脚本即可 |
 | [Network Wifi & Eth](http://rodalgaard.dk/)                  | Show and change your network settings，修改过脚本适用自己使用的系统，无法获取信息修改脚本即可 |
 | [Dig](https://github.com/phallstrom/AlfredDig)               | Perform DNS lookups using dig                                |
