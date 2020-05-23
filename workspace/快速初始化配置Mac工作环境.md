@@ -137,6 +137,8 @@
 
 - [OmniFocus](https://www.omnigroup.com/)：办公工具
 
+- [Bear](https://bear.app/cn/)：优雅的笔记应用
+
 - OmniGraffle
 
 - OmniOutliner
