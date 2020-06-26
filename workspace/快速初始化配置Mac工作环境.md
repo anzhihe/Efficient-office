@@ -199,6 +199,10 @@
 
 - [Solid Converter Mac](https://www.mac-pdf-converter.com/zh/)：pdf转Microsoft office文档工具
 
+- [Reeder](https://reederapp.com/)：Mac上最好用的RSS阅读器客户端
+
+- [NetNewsWire](https://ranchero.com/netnewswire/)：Mac上免费开源的RSS客户端
+
 
 
 ### 参考：
