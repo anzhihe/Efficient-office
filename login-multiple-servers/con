@@ -15,9 +15,12 @@ trap {
 #0-关闭日志/1-打开日志
 log_user 0
 
+#开启执行时调试
+#exp_internal 1
+
 #### 用户信息 ####
-set user "youusername"
-set pass "youpasswd"
+set user "username"
+set pass "passwd"
 
 #选择中控机器
 set relay "relay1"
