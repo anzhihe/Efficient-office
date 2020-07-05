@@ -211,6 +211,8 @@
 
 - [Transmission](https://transmissionbt.com/)：BT下载器
 
+- [μTorrent](https://www.utorrent.com/)：迷你BT下载器
+
 
 
 
