@@ -203,6 +203,15 @@
 
 - [NetNewsWire](https://ranchero.com/netnewswire/)：Mac上免费开源的RSS客户端
 
+- [FDM](https://www.freedownloadmanager.org/zh/)：开源好用的小众下载器
+
+- [FOLX 5](https://mac.eltima.com/download-manager.html)：Mac老牌下载器
+
+- [Motrix](https://motrix.app/zh-CN/)：开源全能下载器
+
+- [Transmission](https://transmissionbt.com/)：BT下载器
+
+
 
 
 ### 参考：
