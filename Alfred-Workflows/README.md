@@ -6,6 +6,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [API](shizuwu.cn)                                            | API搜索                                                      |
 | [Dash](kapeli.com)                                           | Search Dash for query                                        |
+| [little_css_cookbook](https://www.packal.org/workflow/little-css-cookbook)                                           | help us write CSS faster and without errors                                        |
 | [Github](https://github.com/gharlan/alfred-github-workflow)  | GitHub for Alfred                                            |
 | [GitLab-Tool](https://github.com/wangshub)                   | Gitlab for Alfred                                            |
 | [Google Search](https://github.com/ethan-funny/Google-Alfred3-Workflow) | Get google search results based on your query                |
