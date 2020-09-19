@@ -1,13 +1,39 @@
-# If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+# For Performance Debug purpose
+export SUKKA_ENABLE_PERFORMANCE_PROFILING="false"
+
+if [[ "${SUKKA_ENABLE_PERFORMANCE_PROFILING:-}" == "true" ]]; then
+    zmodload zsh/zprof
+
+    zmodload zsh/datetime
+
+    setopt PROMPT_SUBST
+    PS4='+$EPOCHREALTIME %N:%i> '
+    rm -rf zsh_profile*
+    __sukka_zsh_profiling_logfile=$(mktemp zsh_profile.XXXXXX)
+    echo "Logging to $__sukka_zsh_profiling_logfile"
+    exec 3>&2 2>$__sukka_zsh_profiling_logfile
+
+    setopt XTRACE
+fi
 
 # Path to your oh-my-zsh installation.
+source ~/zsh-defer/zsh-defer.plugin.zsh
+zsh-defer source ~/.zinit/bin/zinit.zsh
+
 export ZSH=/Users/anzhihe/.oh-my-zsh
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+export ZSH_DISABLE_COMPFIX="true"
+export NVM_LAZY_LOAD=true
+# nvm
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+zsh-defer -c '[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"'
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # 左侧显示
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir dir_writable vcs) 
@@ -17,6 +43,7 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status time)
 
 # icon
 POWERLEVEL9K_MODE='nerdfont-complete'
+POWERLEVEL9K_LEFT_SEGMENT_SEPARATOR='\uE0C0'
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -41,17 +68,17 @@ POWERLEVEL9K_MODE='nerdfont-complete'
 # ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
+DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
 # The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-# HIST_STAMPS="mm/dd/yyyy"
+HIST_STAMPS="yyyy-mm-dd"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
@@ -61,19 +88,22 @@ POWERLEVEL9K_MODE='nerdfont-complete'
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 #
-export FZF_BASE="$HOME/.fzf"
+
+#export FZF_BASE="$HOME/.fzf"
+
 
 plugins=(
 	git
     autojump
-    fzf
-    pyenv
+    #fzf
+    #pyenv
+    pyenv-lazy
 	zsh-autosuggestions
     zsh-syntax-highlighting
+    zsh-nvm
 )
 
-
-source $ZSH/oh-my-zsh.sh
+zsh-defer source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -110,9 +140,6 @@ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
 
 #[[ -f ~/.bash_aliases ]] && source ~/.bash_aliases
 
-#if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
-#export PYENV_ROOT=/usr/local/var/pyenv
-
 # iterm2背景设置
 # 配置方法：Preferences -> Profiles -> Window -> Background Image 选择一个你喜欢的背景，然后通过Blending调整图片背景的透明度。
 # Zsh use powerlevel9k/powerlevel9k: https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f
@@ -130,23 +157,30 @@ fancy-ctrl-z () {
 zle -N fancy-ctrl-z
 bindkey '^Z' fancy-ctrl-z
 
-alias che='ssh anzhihe@xxxxx'
+alias sshc='ssh anzhihe@xxx'
+alias relay='ssh anzhihe@chegva.com -p 2223'
+#alias gorelay='/usr/local/Cellar/python/3.7.3/bin/python3.7 /Users/anzhihe/relay.py -u anzhihe -p xxx -s BEYH5GLZSJMZFQNB'
 alias egrep='egrep --color'
 alias fgrep='fgrep --color'
 alias vi='vim'
 alias rm='rm -i'
 alias mv='mv -i'
 alias cp='cp -i'
-alias mysqlstart='/usr/local/Cellar/mysql/5.7.20/bin/mysql.server start'
-alias mysqlstop='/usr/local/Cellar/mysql/5.7.20/bin/mysql.server stop'
-alias mysqlrestart='/usr/local/Cellar/mysql/5.7.20/bin/mysql.server restart'
+alias mysqlstart='/usr/local/Cellar/mysql@5.7/5.7.28/bin/mysql.server start'
+alias mysqlstop='/usr/local/Cellar/mysql@5.7/5.7.28/bin/mysql.server stop'
+alias mysqlrestart='/usr/local/Cellar/mysql@5.7/5.7.28/bin/mysql.server restart'
+alias rsstart='brew services start redis@3.2'
+alias rsstop='brew services stop redis@3.2'
+alias rsrestart='brew services restart redis@3.2'
 alias wl='ll | wc -l'
 alias lh='ls -lah'
 alias c='clear'  # 快速清屏
 alias p='pwd'
 alias dps='docker ps'
 alias dpsa='docker ps -a'
-alias python3='/usr/local/Cellar/python/3.7.3/bin/python3'
+alias python3='/Users/anzhihe/.pyenv/versions/3.7.4/bin/python3.7'
+alias python2='/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7'
+alias virtualenv='/Users/anzhihe/.pyenv/versions/3.7.4/bin/virtualenv'
 # 进入目录并列出文件，如 cdl ../conf.d/
 cdl() { cd "$@" && pwd ; ls -alF; }
 alias ..="cdl .."
@@ -245,7 +279,7 @@ openf() {
    # [[ $- == *i* ]] && source "$HOME/.fzf/shell/completion.zsh" 2> /dev/null
     # Import specific key bindings
   #  source "$HOME/.fzf/shell/key-bindings.zsh"
-    export FZF_DEFAULT_OPTS='--height 50% --reverse --border'
+#    export FZF_DEFAULT_OPTS='--height 50% --reverse --border'
 # }
 
 #alias fzf="~/.fzf/bin/fzf"
@@ -281,3 +315,51 @@ fzf --preview '[[ $(file --mime {}) =~ binary ]] && echo {} is a binary file || 
 fh() {
   eval $( ([ -n "$ZSH_NAME" ] && fc -l 1 || history) | fzf +s --tac | sed 's/ *[0-9]* *//')
 }
+
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+if [[ "${SUKKA_ENABLE_PERFORMANCE_PROFILING:-}" == "true" ]]; then
+    unsetopt XTRACE
+    exec 2>&3 3>&-
+
+    parse_zsh_profiling() {
+        typeset -a lines
+        typeset -i prev_time=0
+        typeset prev_command
+
+        while read line; do
+            if [[ $line =~ '^.*\+([0-9]{10})\.([0-9]{6})[0-9]* (.+)' ]]; then
+                integer this_time=$match[1]$match[2]
+
+                if [[ $prev_time -gt 0 ]]; then
+                    time_difference=$(( $this_time - $prev_time ))
+                    lines+="$time_difference $prev_command"
+                fi
+
+                prev_time=$this_time
+
+                local this_command=$match[3]
+                if [[ ${#this_command} -le 80 ]]; then
+                    prev_command=$this_command
+                else
+                    prev_command="${this_command:0:77}..."
+                fi
+            fi
+        done < ${1:-/dev/stdin}
+
+        print -l ${(@On)lines}
+    }
+
+    zprof() {
+        unfunction zprof
+
+        parse_zsh_profiling $__sukka_zsh_profiling_logfile | head -n 30
+
+        echo ""
+        echo "========================================"
+        echo ""
+
+        zprof $@
+    }
+fi
