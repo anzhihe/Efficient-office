@@ -93,12 +93,12 @@ HIST_STAMPS="yyyy-mm-dd"
 
 
 plugins=(
-	git
+    git
     autojump
     #fzf
     #pyenv
     pyenv-lazy
-	zsh-autosuggestions
+    zsh-autosuggestions
     zsh-syntax-highlighting
     zsh-nvm
 )
