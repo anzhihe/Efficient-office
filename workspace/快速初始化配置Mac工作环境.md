@@ -147,6 +147,8 @@
 
 - [Telegram](https://telegram.org/)：通讯工具
 
+- [Skype](http://skype.gmw.cn/down/skype-for-computers.html)：老牌好用的通讯app
+
 - [Potato](https://potato.im/)
 
 - [Postman](https://www.postman.com/)：调试工具
