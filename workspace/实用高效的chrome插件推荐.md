@@ -47,6 +47,14 @@
 
 Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏览器的体验。
 
+11、[图片助手ImageAssistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
+
+一款用于嗅探、分析网页图片并提供批量下载等功能及在线收藏、检索、分享服务的浏览器扩展程序。
+
+12、[Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
+
+找出当前页面的所有图片，提供按分辨率、链接等筛选图片，简单好用的下载图片扩展。
+
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
