@@ -197,6 +197,8 @@
 
 - [Google Earth](https://www.google.com/earth/)：谷歌地球
 
+- [Stellarium](http://stellarium.org/)：虚拟天文馆
+
 - [GoldenDict](http://www.goldendict.org/)：专业字典软件
 
 - [GoldenPassport](https://github.com/stanzhai/GoldenPassport)：谷歌认证客气端
