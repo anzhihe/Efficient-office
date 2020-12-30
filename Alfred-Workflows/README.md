@@ -45,7 +45,7 @@
 | [Network Tools](https://github.com/fniephaus/alfred-network) | Collection of some useful network commands，添加了nmap、traceroute、mtr，与mac版本有关，无法获取信息修改脚本即可 |
 | [Network Wifi & Eth](http://rodalgaard.dk/)                  | Show and change your network settings，修改过脚本适用自己使用的系统，无法获取信息修改脚本即可 |
 | [Dig](https://github.com/phallstrom/AlfredDig)               | Perform DNS lookups using dig                                |
-| [Lookup IP](http://kodango.com)                              | 根据淘宝地址库来查询 IP 地址信息(修改接口地址和格式)                             |
+| [Lookup IP](http://kodango.com)                              | 根据淘宝地址库来查询 IP 地址信息(修改了接口格式)                             |
 | [IP Locator](https://github.com/taozen/alfred3-iploc-workflow)                              | 查询IP归属地（数据源 ipip.net）                             |
 | [Show Network Info](https://github.com/jeppestaerk/alfred-show-network-info#readme) | Alfred 3 Workflow - See network info and discover local devices |
 | [alfred-rfc](https://libraries.io/pypi/alfred-rfc) | Search RFCs using alfred |
