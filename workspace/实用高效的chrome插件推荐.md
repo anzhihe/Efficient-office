@@ -85,11 +85,15 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 可以在 github 仓库中搜索想要的信息，不错。
 
-8、[IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
+8、[Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)
+
+可以显示仓库和每个文件的大小，提供下载链接和复制文件内容的选项。
+
+9、[IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 
 在标签页中以IE内核显示网页,主要是政府，学校等一些网站用，mac上不需要安装虚拟机了，不过有点慢，需账号登陆下
 
-9、[Video | GIF Downloader for Twitter](https://chrome.google.com/webstore/detail/video-gif-downloader-for/pkjcnglcgiacokoihlhjingbhhlbkjfn)
+10、[Video | GIF Downloader for Twitter](https://chrome.google.com/webstore/detail/video-gif-downloader-for/pkjcnglcgiacokoihlhjingbhhlbkjfn)
 
 下载推特上的小视频和GIf
 
