@@ -137,4 +137,4 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 #### 参考：
 
-- [实用且堪称神器的Chrome插件推荐](https://blog.csdn.net/lgd_guangdong/article/details/80062649)
+- [实用高效的 Alfred Workflows 收集推荐](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows)
