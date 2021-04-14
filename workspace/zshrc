@@ -199,6 +199,8 @@ alias gst='git st'
 alias gad='git add *'
 alias gps='git push'
 alias gpl='git pull'
+alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
+alias noproxy="unset ALL_PROXY"
 
 # 自动在文件末尾加上 .bak-日期 来备份文件，如 bu nginx.conf
 bak() { cp -rp "$@" "$@.bak"-`date +%Y%m%d`; echo "`date +%Y-%m-%d` backed up $PWD/$@"; }
