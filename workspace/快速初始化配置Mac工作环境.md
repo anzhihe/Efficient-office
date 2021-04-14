@@ -20,11 +20,11 @@
 
   鼠标与触控板 -> 触控板选项 -> 滚动：带惯性，启动拖移：`三指拖移`
 
+  新版：系统偏好设置 → 辅助功能 → 在边栏中选择“指针控制” → 点按“触控板选项”按钮 → 选择“启用拖移”，然后从菜单中选取“三指拖移”
+
 - 关闭自动更新，可选
 
 - [Mac键盘快捷键](https://chegva.com/2459.html)
-
-
 
 
 ## 2.必备软件配置
@@ -34,8 +34,6 @@
 - 浏览器：[Chrome](https://www.google.cn/chrome/) ，登陆google账号将扩展插件，书签同步。[Firefox](https://www.mozilla.org/zh-CN/firefox/new/)安装备用
   
 - [实用高效的 Chrome 插件推荐](https://chegva.com/3472.html)
-  
-- Mac包管理工具：[brew](https://brew.sh/index_zh-cn.html)
 
 - 终端：[iterm](https://www.iterm2.com/)，配置好字体，背景，颜色
 
@@ -53,6 +51,10 @@
   - [打造漂亮又好用的zsh环境](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
   - [iterm常用快捷键及添加rz、sz传文件功能](https://chegva.com/2776.html)
 
+- Mac包管理工具：[HomeBrew](https://brew.sh/index_zh-cn.html),被Q可以使用国内站：[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+
+- 安装pyenv配置Python环境：[pyenv](https://github.com/pyenv/pyenv),[MacOS 下利用 pyenv 管理Python 版本和虚拟环境](https://juejin.cn/post/6844903782636060686)
+
 - 微信，QQ，Zoom，Telegram：自行下载即可
 
 - [Alfred](https://www.alfredapp.com/)
@@ -65,8 +67,6 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：将原来机器上的配置导过来即可
 
 - [v2ray](https://www.v2ray.com/)
-
-
 
 
 ## 3.工具软件推荐
