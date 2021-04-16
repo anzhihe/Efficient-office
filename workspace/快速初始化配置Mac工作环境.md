@@ -135,6 +135,8 @@
 
 - [MindNode](https://mindnode.com/)：脑图
 
+- [XMind](https://www.xmind.cn/)：思维脑图
+
 - [OmniFocus](https://www.omnigroup.com/)：办公工具
 
 - [Bear](https://bear.app/cn/)：优雅的笔记应用
