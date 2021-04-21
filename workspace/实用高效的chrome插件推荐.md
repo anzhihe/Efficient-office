@@ -127,6 +127,22 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 科学上网, for developers, cross-border workers, and research institutes to secure and speed Internet surfing.
 
+8、[Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai/relatedN)
+
+身份验证器用以在浏览器中生成二步认证代码。Encrypting your secrets is strongly recommended, especially if you are logged into a Google account.
+
+## Alfred Workflow
+
+- [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
+
+- [Search Safari and Chrome Tabs](http://www.packal.org/workflow/search-safari-and-chrome-tabs)
+
+`隐藏插件图标`：将鼠标移动到最右侧边上（添加书签的五角星的右侧），鼠标就会变成可拖动的双向箭头，这时单击并向右拖动，即可将插件图标逐个隐藏
+
+#### 参考：
+
+- [实用高效的 Alfred Workflows 收集推荐](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows)
+
 ## Alfred Workflow
 
 - [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
