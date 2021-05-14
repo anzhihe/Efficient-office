@@ -55,6 +55,10 @@ Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏
 
 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，简单好用的下载图片扩展。
 
+13、[Tree Style Histyle](https://chrome.google.com/webstore/detail/tree-style-history/khcenbpnhbeplojhaolbpldmoppicold)
+
+树状展示浏览器历史 (For Edge / Chromium / Chrome)
+
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
