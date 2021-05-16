@@ -123,6 +123,10 @@
 
 - [Free Download Manager](https://www.freedownloadmanager.org/zh/)：下载器
 
+- [youtobe-dl](https://github.com/ytdl-org/youtube-dl)：web端video下载神器
+
+- [you-get](https://github.com/soimort/you-get)：web端video下载神器
+
 - [CleanMyMac](https://macpaw.com/cleanmymac)：系统清理工具
 
 - [DrCleaner](https://www.trendmicro.com/zh_tw/forHome/products/drcleaner.html)
