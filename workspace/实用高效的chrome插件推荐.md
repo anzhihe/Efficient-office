@@ -59,6 +59,10 @@ Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏
 
 树状展示浏览器历史 (For Edge / Chromium / Chrome)
 
+14、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
+
+上班摸鱼神器，可以缩小放到屏幕角落的视频播放器。
+
 ## 工具类
 
 1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
