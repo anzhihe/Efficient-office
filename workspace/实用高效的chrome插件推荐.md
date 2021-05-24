@@ -149,16 +149,7 @@ User-Agent 用户代理工具，支持自定义，可自行添加，还是值得
 
 #### 参考：
 
-- [实用高效的 Alfred Workflows 收集推荐](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows)
-
-## Alfred Workflow
-
-- [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
-
-- [Search Safari and Chrome Tabs](http://www.packal.org/workflow/search-safari-and-chrome-tabs)
-
-`隐藏插件图标`：将鼠标移动到最右侧边上（添加书签的五角星的右侧），鼠标就会变成可拖动的双向箭头，这时单击并向右拖动，即可将插件图标逐个隐藏
-
-#### 参考：
+- [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 - [实用高效的 Alfred Workflows 收集推荐](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows)
+
