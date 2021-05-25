@@ -1,5 +1,4 @@
 
-
 ## 快速初始化配置Mac工作环境
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/workspace/picture/mac.png)
@@ -140,6 +139,8 @@
 - [MindNode](https://mindnode.com/)：脑图
 
 - [XMind](https://www.xmind.cn/)：思维脑图
+
+- [Diagrams](https://www.diagrams.net/)：免费开源跨平台的绘图应用
 
 - [OmniFocus](https://www.omnigroup.com/)：办公工具
 
