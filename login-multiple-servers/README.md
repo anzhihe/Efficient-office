@@ -20,3 +20,5 @@ One-click login to multiple servers: https://chegva.com/3422.html
 > 2019/7/23 直接使用con脚本登陆，ssh.exp废弃
 
 > 2019/7/25 解决终端显示异常的问题
+
+> 2021/7/6  使用python脚本登陆中控机(https://chegva.com/4414.html)
