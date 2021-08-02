@@ -80,7 +80,7 @@
 
 - [LICEcap](https://www.cockos.com/licecap/)：录制gif
 
-- [iText](https://en.toolinbox.net/iText/)：图像转文字工具
+- [iText](https://en.toolinbox.net/iText/)：图像转文字工具,不过qq截图识字更好用，正确率更高
 
 - [Get Plain Text](https://apps.apple.com/us/app/get-plain-text/id508368068?mt=12)：清除剪切版中文本格式
 
