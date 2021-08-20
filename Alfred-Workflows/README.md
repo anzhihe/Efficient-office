@@ -69,6 +69,8 @@
 | [alfred-pycharm](https://github.com/orf/alfred-pycharm)                                    | 使用alfred3打开pycharm项目(修改了下代码，在Alfred3 + PyCharm 2021.1 Professional Edition测试通过) |
 | [CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert)                                    |  汇率转换 convert currency conveniently  |
 | [douban](https://github.com/h3l/douban-workflow)                                    | 查询豆瓣书籍和电影 |
+| [alfred-vscode](https://github.com/kbshl/alfred-vscode)                                    | Alfred 3 workflow that allows you to browse and open Visual Studio Code (Insiders) projects or simply open specified folders/files. |
+| [alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow)                                    | alfred使用vscode打开文件或文件夹 |
 
 #### 参考
 - http://alfredworkflow.com/
