@@ -199,7 +199,11 @@ alias gst='git st'
 alias gad='git add *'
 alias gps='git push'
 alias gpl='git pull'
+alias gpb='git pull --rebase'
 alias gdf='git diff'
+alias grh='git reset --hard'
+# batch git pull repositories
+alias gpa="find . -maxdepth 3 -name .git -type d | rev | cut -c 6- | rev | xargs -I {} git -C {} pull"
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
 alias noproxy="unset ALL_PROXY"
 
