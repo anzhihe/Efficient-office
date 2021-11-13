@@ -28,6 +28,7 @@
 | [ssh](https://github.com/deanishe/alfred-ssh)                | Open SSH Connection                                          |
 | [relay](https://chegva.com/3421.html)                        | ssh登陆服务器(修改了iterm session打开方式)                   |
 | [Multiple Servers](https://chegva.com/3422.html)             | One-click login to multiple servers                          |
+| [connect-cisco-vpn](https://github.com/anzhihe/Efficient-office/tree/master/connect-cisco-vpn)             | Alfred workflow to connect cisco vpn.                          |
 | [Google Translate](https://github.com/xfslove/alfred-google-translate#readme) | Alfred 3 workflow to translate between zh-cn and en with google tanslate api |
 | [Youdao](https://github.com/liszd/whyliam.workflows.youdao)  | 使用有道翻译你想知道的单词和语句                             |
 | [start](https://chegva.com/3347.html)                        | 一健启动办公软件                                             |
