@@ -1,4 +1,4 @@
-## Alfred Workflow - Connect Cisco VPN(Alfred workflow一键登陆Cicso VPN)
+## Alfred Workflow - Connect Cisco VPN(Alfred workflow一键登陆Cisco VPN)
 
 Alfred workflow to connect cisco vpn.
 

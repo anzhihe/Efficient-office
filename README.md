@@ -32,5 +32,5 @@
 - 一键登陆多服务器 ([**One-click login to multiple servers**](/login-multiple-servers)) · https://chegva.com/3422.html
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.gif)
 ---
-- 一键登陆Cicso VPN ([**Connect Cisco VPN**](/connect-cisco-vpn)) · https://chegva.com/4896.html
+- 一键登陆Cisco VPN ([**Connect Cisco VPN**](/connect-cisco-vpn)) · https://chegva.com/4896.html
 ---
