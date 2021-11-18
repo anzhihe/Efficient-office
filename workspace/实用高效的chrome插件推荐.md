@@ -55,6 +55,40 @@ Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏
 
 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，简单好用的下载图片扩展。
 
+13、[捕捉网页截图 - FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
+
+网页截图，选择区域截图
+
+14、[Tree Style Histyle](https://chrome.google.com/webstore/detail/tree-style-history/khcenbpnhbeplojhaolbpldmoppicold)
+
+树状展示浏览器历史 (For Edge / Chromium / Chrome)
+
+15、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
+
+上班摸鱼神器，可以缩小放到屏幕角落的视频播放器。
+
+## 工具类
+
+1、[WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web前端助手fehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
+
+All In One的前端实用工具集，谁用谁知道！
+
+2、[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+脚本运行神器，油管/b站视频随便下。
+
+3、[WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related)
+
+安装后可以点击WhatRuns图标来打开插件窗口，轻松了解网站的整体技术信息，我猜开发者应该是学霸。
+
+4、[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/clddifkhlkcojbojppdojfeeikdkgiae)
+
+User-Agent 用户代理工具，支持自定义，可自行添加，还是值得推荐的。
+
+5、[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
+通过浏览器就可直接查看JSON文件结构，层次的小而美插件。
+
 13、[Tree Style Histyle](https://chrome.google.com/webstore/detail/tree-style-history/khcenbpnhbeplojhaolbpldmoppicold)
 
 树状展示浏览器历史 (For Edge / Chromium / Chrome)
