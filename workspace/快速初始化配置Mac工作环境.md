@@ -162,13 +162,13 @@
 
 - [Paw](https://paw.cloud/)
 
-- [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具
+- [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具，Python项目好使
 
-- [VSCode](https://code.visualstudio.com/)
+- [VSCode](https://code.visualstudio.com/)：前端好使，插件多
 
-- [Goland](https://www.jetbrains.com/go/)
+- [Goland](https://www.jetbrains.com/go/)：写Golang项目好使
 
-- [CodeRunner](https://coderunnerapp.com/)：一个轻量级的，多语言程序编程器
+- [CodeRunner](https://coderunnerapp.com/)：一个轻量级的，多语言程序编程器，写脚本好使
 
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)
 
