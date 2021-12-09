@@ -1,6 +1,9 @@
+tell application "System Events"
+    -- some versions might identify as "iTerm2" instead of "iTerm"
+    set isRunning to (exists (processes where name is "iTerm")) or (exists (processes where name is "iTerm2"))
+end tell
+
 -- Get hosts
-  tell application "iTerm2"
-      activate
 set listOfShows to {}
 set Shows to paragraphs of (read POSIX file "~/hosts")
 repeat with nextLine in Shows
@@ -10,9 +13,19 @@ repeat with nextLine in Shows
 end repeat
 set num_hosts to count listOfShows
 
+tell application "iTerm2"
+      activate
+set hasNoWindows to ((count of windows) is 0)
+if isRunning and hasNoWindows then
+	create window with default profile
+end if
+select first window
+
 -- Create new tab
-tell current window
-		create tab with default profile
+tell the first window
+    if isRunning and hasNoWindows is false then
+       create tab with default profile
+    end if
 end tell
 
 -- Prepare vertical panes
@@ -26,9 +39,9 @@ end repeat
 
 -- Login server, use write text can execute all command you want
 repeat with n from 1 to num_hosts
-tell session n of current tab of current window
-     write text  "/usr/local/bin/con " & (item n of listOfShows)
---     write text  "ssh " & (item n of listOfShows)
-end tell
+    tell session n of current tab of current window
+        write text  "/usr/local/bin/con " & (item n of listOfShows)
+    end tell
 end repeat
+
 end tell
