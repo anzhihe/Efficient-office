@@ -1,7 +1,7 @@
 #!/usr/bin/expect
 #!/bin/bash
 
-#解决终端显示异常的问题
+# 解决终端显示异常的问题
 #trap sigwinch spawned
 trap {
     set rows [stty rows]
@@ -9,54 +9,64 @@ trap {
     stty rows $rows columns $cols < $spawn_out(slave,name)
 } WINCH
 
-#记录执行日志
-#log_file $HOME/log/login.log
+# 记录执行日志
+#log_file /tmp/login.log
 
-#0-关闭日志/1-打开日志
-log_user 0
+# 0-关闭日志/1-打开日志
+#log_user 1
 
-#开启执行时调试
+# 开启执行时调试
 #exp_internal 1
 
 #### 用户信息 ####
-set user "username"
+set user "anzhihe"
 set pass "passwd"
 
-#选择中控机器
-set relay "relay1"
-#set machine "<machine>"
+# 选择中控机器
+set relay "relay.chegva.com"
 set machine [lindex $argv 0]
 
-####################
+# 启动连接进程
+spawn ssh  -o StrictHostKeyChecking=no -o LogLevel=quiet "$user@$relay"
+set timeout 10
 
-spawn ssh -p 666  -o StrictHostKeyChecking=no -o LogLevel=quiet "$user@relay.xxx.com"
 expect {
-    "Googlekey shield code*" {
-        # 输入googlekey
-        expect_user -timeout -1 -re "(.*)\n"
-        set code $expect_out(1,string)
-        send "$code\n";
-        exp_continue;
-    }
-    "Password*" {
-        # 输入密码
-        send "$pass\n" ;
-        exp_continue;
-    }
-    "Option*"  {
-        # 选择中控
-        send "$relay\r";
-        exp_continue;
-    }
-    "$user@*" {
+# 内部并行匹配    
+#    "Googlekey shield code*" {
+#        # 输入googlekey
+#        expect_user -timeout -1 -re "(.*)\n"
+#        set code $expect_out(1,string)
+#        send "$code\n";
+#        exp_continue;
+#    }
+#    "Password*" {
+#        # 输入密码
+#        send "$pass\n";
+#        exp_continue;
+#    }
+#    "Option*"  {
+#        # 选择中控
+#        send "$relay\r";
+#        exp_continue;
+#    }
+    "*$user\>" {
         # 连接线上机器
-        sleep 0.3
-        send "ssh $machine\n"
-        # exp_continue;
+        send "$machine\r";
+#        exp_continue;
     }
-    #"$user@$machine*" {
-    #    sleep 0.3
-    #    send "sudo -iu root\n"
-    #}
+#    "*bash*" {
+#        # 切换成root用户
+#        sleep 0.3
+#        send "sudo -iu root\r";
+#    }
 }
+
+# 串行匹配,解决可能程序没准备好，却已经返回的情况
+expect {
+    "*bash*" {
+        # 切换成root用户
+        send "sudo -iu root\r";
+    }
+}
+
 interact
