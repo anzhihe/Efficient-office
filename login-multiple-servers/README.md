@@ -2,7 +2,7 @@
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.gif)
 > 配置信息，根据自己的实际情况修改
 1. con 复制到 /usr/local/bin/ 下并授权
-2. 服务器信息放在中转文件 ~/hosts 里
+2. 选中服务器信息放在存在中转文件 ~/.hosts 中
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/login-multiple-servers/Login-Multiple-Servers.png)
 > 使用方法：
@@ -23,4 +23,6 @@ One-click login to multiple servers: https://chegva.com/3422.html
 
 > 2021/7/6  使用python脚本登陆中控机(https://chegva.com/4414.html)
 
-> 2021/12/9 relay.scpt废弃
+> 2021/12/9 relay.scpt废弃，修复iTerm进程没启动时无法登陆的问题
+
+> 2021/12/18 自动创建~/.hosts文件,多服务器登陆使用AppleScript实现
