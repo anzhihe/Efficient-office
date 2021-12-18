@@ -2,6 +2,8 @@
 
 Alfred workflow to connect cisco vpn.
 
+![image](https://github.com/anzhihe/Efficient-office/blob/master/connect-cisco-vpn/ccv.gif)
+
 ## How to use
 
 1. Install Cisco AnyConnect Secure Mobility Client & Alfred and configured.
