@@ -4,7 +4,7 @@ Alfred workflow to build common command line library.
 
 ## How to use
 
-Install [Bear app](https://bear.app/) and Bear Alfred Workflow:
+Install [Bear app](https://bear.app/) and Bear.alfredworkflow:
 
 感谢原作者： [alfred-bear](https://github.com/chrisbro/alfred-bear)，在其基础上添加了复制note到剪切板的功能
 
