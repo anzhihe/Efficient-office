@@ -195,17 +195,20 @@ alias netp='netstat -tulanp'  # 查看服务器端口连接信息
 alias lvim="vim -c \"normal '0\""  # 编辑vim最近打开的文件
 alias tf='tail -f '  # 快速查看文件末尾输出
 alias mtr=/usr/local/sbin/mtr
+alias git='LANG=en_GB git' # Mac git中文提示改为英文
 alias gst='git st'
+alias gpl='git pull'
+alias gdf='git diff'
 alias gad='git add *'
 alias gps='git push'
-alias gpl='git pull'
-alias gpb='git pull --rebase'
-alias gdf='git diff'
-alias grh='git reset --hard'
+alias grh='git reset --soft HEAD^'
+alias gba='git branch -a'
+alias gpur='git pull upstream master --rebase'
 # batch git pull repositories
 alias gpa="find . -maxdepth 3 -name .git -type d | rev | cut -c 6- | rev | xargs -I {} git -C {} pull"
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
 alias noproxy="unset ALL_PROXY"
+alias https="http --default-scheme=https"
 
 # 自动在文件末尾加上 .bak-日期 来备份文件，如 bu nginx.conf
 bak() { cp -rp "$@" "$@.bak"-`date +%Y%m%d`; echo "`date +%Y-%m-%d` backed up $PWD/$@"; }
