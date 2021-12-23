@@ -8,7 +8,8 @@
 ---
 - [实用高效的chrome插件推荐](/workspace/实用高效的chrome插件推荐.md)
 ---
-- Alfred workflow构建常用命令行库(Alfred to build common command line library) · https://chegva.com/4021.html 
+- Alfred workflow构建常用命令行库 ([**Command line library**](/command-line-library)) · https://chegva.com/4021.html 
+![image](https://github.com/anzhihe/Efficient-office/blob/master/command-line-library/command-line-library.gif)
 ---
 - Alfred workflow使用iterm执行命令 ([**iTerm Run Command**](/iterm-run-command)) · https://chegva.com/3774.html 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/iterm-run-command/iterm-run-command.gif)
