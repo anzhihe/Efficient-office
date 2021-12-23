@@ -78,6 +78,8 @@
 
 - [Jietu](https://jietu.qq.com/)：便捷的截图工具
 
+- [Xnip](https://xnipapp.com/)：滚动截图工具
+
 - [LICEcap](https://www.cockos.com/licecap/)：录制gif
 
 - [iText](https://en.toolinbox.net/iText/)：图像转文字工具,不过qq截图识字更好用，正确率更高
