@@ -73,6 +73,8 @@
 | [alfred-vscode](https://github.com/kbshl/alfred-vscode)                                    | Alfred 3 workflow that allows you to browse and open Visual Studio Code (Insiders) projects or simply open specified folders/files. |
 | [alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow)                                    | alfred使用vscode打开文件或文件夹 |
 | [alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains)                                    | Alfred3 & Alfred4 workflow to easily open your projects with your favorite JetBrains product.  |
+| [Open Goland Project](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows/workflows)                                    | Alfred3 workflow to easily open your projects with  Goland product.  |
+| [Open Pycharm Project](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows/workflows)                                    | Alfred3 workflow to easily open your projects with Pycharm product.  |
 
 #### 参考
 - http://alfredworkflow.com/
