@@ -97,11 +97,13 @@
 
 - [Bartender](https://www.macbartender.com/)：图标隐藏
 
-- [Typora](https://www.typora.io/)：Markdown、文档编辑器
+- [Typora](https://www.typora.io/)：Markdown、文档编辑器，[Markdown学习笔记
+](https://chegva.com/280.html)
 
-- [Atom](https://atom.io/)
+- [Atom](https://atom.io/)：开源的多功能编辑器，[Atom操作快捷键
+](https://chegva.com/2464.html)
 
-- [Sublime Text](https://www.sublimetext.com/)
+- [Sublime Text](https://www.sublimetext.com/)：文本编辑器
 
 - [Clearview](https://xclient.info/s/clearview.html)：Pdf阅读器
 
@@ -111,7 +113,7 @@
 
 - [Wireshark](https://www.wireshark.org/)：抓包工具
 
-- [Charles](https://www.charlesproxy.com/)
+- [Charles](https://www.charlesproxy.com/)：mac抓包工具
 
 - [Proxifier](https://www.proxifier.com/)：代理转发
 
@@ -161,9 +163,9 @@
 
 - [Potato](https://potato.im/)
 
-- [Postman](https://www.postman.com/)：调试工具
+- [Postman](https://www.postman.com/)：API调试工具
 
-- [Paw](https://paw.cloud/)
+- [Paw](https://paw.cloud/)：API tool
 
 - [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具，Python项目好使
 
@@ -177,9 +179,9 @@
 
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)
 
-- [Dash](https://kapeli.com/dash)
+- [Dash](https://kapeli.com/dash)：API Documentation Browser and Code Snippet Manager
 
-- [Beyond Compare](https://www.scootersoftware.com/)
+- [Beyond Compare](https://www.scootersoftware.com/)：文件对比工具
 
 - [SwitchHosts](https://github.com/oldj/SwitchHosts)：切换绑定hosts
 
