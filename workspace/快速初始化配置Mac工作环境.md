@@ -177,7 +177,7 @@
 
 - [CodeRunner](https://coderunnerapp.com/)：一个轻量级的，多语言程序编程器，写脚本好使
 
-- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)：支持多种数据库的管理工具
 
 - [Dash](https://kapeli.com/dash)：API Documentation Browser and Code Snippet Manager
 
