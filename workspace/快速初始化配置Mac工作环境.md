@@ -215,7 +215,7 @@
 
 - [GoldenDict](http://www.goldendict.org/)：专业字典软件
 
-- [GoldenPassport](https://github.com/stanzhai/GoldenPassport)：谷歌认证客气端
+- [GoldenPassport](https://github.com/stanzhai/GoldenPassport)：谷歌认证客户端
 
 - [Solid Converter Mac](https://www.mac-pdf-converter.com/zh/)：pdf转Microsoft office文档工具
 
