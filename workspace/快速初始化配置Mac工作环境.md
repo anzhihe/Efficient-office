@@ -72,7 +72,8 @@
 
 - [PopClip——简单高效的增强神器](https://chegva.com/3417.html)
 
-- [aText](https://www.trankynam.com/atext/)：输入增强工具
+- [aText](https://www.trankynam.com/atext/)：输入增强工具,[高效文本增强工具–aText
+](https://chegva.com/4196.html)
 
 - [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
 
