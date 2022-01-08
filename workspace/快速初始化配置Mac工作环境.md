@@ -56,16 +56,16 @@
 
 - 微信，QQ，Zoom，Telegram：自行下载即可
 
-- [Alfred](https://www.alfredapp.com/)
+- [Alfred](https://www.alfredapp.com/)：Mac效率神器
 
   - [将Alfred Workflows导出至新机器](https://chegva.com/3489.html)
   - [实用高效的 Alfred Workflows 收集推荐](https://chegva.com/3488.html)
 
-- [Snap](https://itunes.apple.com/cn/app/id418073146?mt=12)
+- [Snap](https://itunes.apple.com/cn/app/id418073146?mt=12)：应用快捷键调用工具
 
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：将原来机器上的配置导过来即可
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：小飞机，将原来机器上的配置导过来即可
 
-- [v2ray](https://www.v2ray.com/)
+- [v2ray](https://www.v2ray.com/)：这个是飞机厂
 
 
 ## 3.工具软件推荐
