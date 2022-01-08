@@ -23,6 +23,8 @@
 
 - 关闭自动更新，可选
 
+  打开`系统偏好设置` → `软件更新` → 取消选择`自动保持我的Mac最新` → 点击`高级`按钮，取消所有的勾选
+
 - [Mac键盘快捷键](https://chegva.com/2459.html)
 
 
@@ -50,9 +52,9 @@
   - [打造漂亮又好用的zsh环境](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
   - [iterm常用快捷键及添加rz、sz传文件功能](https://chegva.com/2776.html)
 
-- Mac包管理工具：[HomeBrew](https://brew.sh/index_zh-cn.html),被Q可以使用国内站：[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+- Mac包管理工具：[HomeBrew](https://brew.sh/index_zh-cn.html)，被Q可以使用国内站：[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
-- 安装pyenv配置Python环境：[pyenv](https://github.com/pyenv/pyenv),[MacOS 下利用 pyenv 管理Python 版本和虚拟环境](https://juejin.cn/post/6844903782636060686)
+- 安装pyenv配置Python环境：[pyenv](https://github.com/pyenv/pyenv)，[MacOS 下利用 pyenv 管理Python 版本和虚拟环境](https://juejin.cn/post/6844903782636060686)
 
 - 微信，QQ，Zoom，Telegram：自行下载即可
 
