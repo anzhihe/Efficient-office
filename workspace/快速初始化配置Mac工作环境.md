@@ -167,7 +167,8 @@
 
 - [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具，Python项目好使
 
-- [VSCode](https://code.visualstudio.com/)：前端好使，插件多
+- [VSCode](https://code.visualstudio.com/)：前端好使，插件多，[VSCode实用配置及常用快捷键
+](https://chegva.com/4702.html)
 
 - [Goland](https://www.jetbrains.com/go/)：写Golang项目好使
 
