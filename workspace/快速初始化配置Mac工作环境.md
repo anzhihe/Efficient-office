@@ -72,7 +72,7 @@
 
 - [PopClip——简单高效的增强神器](https://chegva.com/3417.html)
 
-- [aText](https://www.trankynam.com/atext/)：输入增强工具,[高效文本增强工具–aText
+- [aText](https://www.trankynam.com/atext/)：输入增强工具，[高效文本增强工具–aText
 ](https://chegva.com/4196.html)
 
 - [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
@@ -170,7 +170,8 @@
 - [VSCode](https://code.visualstudio.com/)：前端好使，插件多，[VSCode实用配置及常用快捷键
 ](https://chegva.com/4702.html)
 
-- [Goland](https://www.jetbrains.com/go/)：写Golang项目好使
+- [Goland](https://www.jetbrains.com/go/)：写Golang项目好使，[GoLand 中使用自定义动态模板高效编程
+](https://chegva.com/4978.html)
 
 - [CodeRunner](https://coderunnerapp.com/)：一个轻量级的，多语言程序编程器，写脚本好使
 
