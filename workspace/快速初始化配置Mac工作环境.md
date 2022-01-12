@@ -167,6 +167,8 @@
 
 - [Postman](https://www.postman.com/)：API调试工具
 
+- [Apifox](https://www.apifox.cn/)：Apifox = Postman + Swagger + Mock + JMeter
+
 - [Paw](https://paw.cloud/)：API tool
 
 - [PyCharm](https://www.jetbrains.com/pycharm/)：开发工具，Python项目好使
