@@ -12,8 +12,12 @@
 
 - **cf**：first copy the text content, then input the file name you want create, the text content will be written to the file in the ~/temp directory 
 
-> press `cmd + return` can reveal file in finder / press `shift` preview the file
+> press `cmd + return` to reveal file in finder
+> press `alt + return`  to open file directory path(s) in terminal(the default iTerm)
+> press `shift` to preview the file
 
 ![image](https://github.com/anzhihe/Efficient-office/blob/master/file-operation/File%20Operation.png) 
 
 Use Alfred operation file: https://chegva.com/3485.html
+
+> 2022-01-13 Add function：open file directory path(s) in terminal(the default iTerm)
