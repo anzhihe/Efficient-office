@@ -2,8 +2,6 @@
 
 - **fn**：search for the file and copy the file name to the clipboard
 
-- **fc**：search for the file and copy the file to the clipboard
-
 - **fp**：search for the file, press enter to copy the file path to the clipboard, then click on the desktop or finder, press `cmd + shift + g` enter the path to find the corresponding file
 
 - **fd**：move the specified file or folder to the trash
