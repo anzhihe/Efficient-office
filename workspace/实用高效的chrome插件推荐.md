@@ -147,13 +147,6 @@ Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 身份验证器用以在浏览器中生成二步认证代码。Encrypting your secrets is strongly recommended, especially if you are logged into a Google account.
 
-## Alfred Workflow
-
-- [Chrome Bookmarks](https://github.com/blainesch/alfred-chrome-bookmarks)
-
-- [Search Safari and Chrome Tabs](http://www.packal.org/workflow/search-safari-and-chrome-tabs)
-
-
 ## 安全类
 
 1、[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
