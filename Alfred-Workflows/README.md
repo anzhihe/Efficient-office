@@ -15,7 +15,7 @@
 | [进制转换](https://github.com/xiaomingplus/convert)          | 方便快捷的转换进制                                           |
 | [Colors](https://github.com/TylerEich/Alfred-Extras)          | Color tools for developers |
 | [chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow)              | Chrome/Canary/Chromium bookmarks search workflow for Alfred                  |
-| [Safari and Chrome Tabs](http://clintonstrong.com)           | Search Safari and Chrome Tabs (添加复制url网址至剪切版功能)                               |
+| [Safari and Chrome Tabs](http://clintonstrong.com)           | Search Safari and Chrome Tabs (添加复制url网址至剪贴板功能)                               |
 | [Alfred Chrome History Workflow](https://github.com/tupton/alfred-chrome-history)           | Search Chrome History                              |
 | [copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred)           | copy browser's URL and title with various formats like markdown, anchor tag |
 | [Pocket for Alfred](https://github.com/fniephaus/alfred-pocket/) | Manage Your Pocket List With Alfred                          |
