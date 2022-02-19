@@ -121,11 +121,13 @@
 
 - [IINA](https://iina.io/)：播放器
 
-- [Shazam](https://www.shazam.com/zh)：音乐播放器
+- [Spotify](https://www.spotify.com/)：音乐播放器
 
 - [网易云音乐](https://music.163.com/)
 
 - [QQ音乐](https://y.qq.com/)
+
+- [LyricsX](https://github.com/ddddxxx/LyricsX)：macOS中歌词显示神器
 
 - [Free Download Manager](https://www.freedownloadmanager.org/zh/)：下载器
 
