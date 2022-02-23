@@ -65,7 +65,9 @@ Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏
 
 15、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
 
-上班摸鱼神器，可以缩小放到屏幕角落的视频播放器。
+16、[Omni](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi)
+
+Chrome 快捷键管理工具，Bookmark, History, & Tab Manager。
 
 ## 工具类
 
