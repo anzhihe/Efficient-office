@@ -63,11 +63,15 @@ Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏
 
 树状展示浏览器历史 (For Edge / Chromium / Chrome)
 
-15、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
-
-16、[Omni](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi)
+15、[Omni](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi)
 
 Chrome 快捷键管理工具，Bookmark, History, & Tab Manager。
+
+16、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
+
+17、[视频下载器 - CoCoCut ](https://chrome.google.com/webstore/detail/video-downloader-cococut/gddbgllpilhpnjpkdbopahnpealaklle)
+
+18、[Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 
 ## 工具类
 
@@ -149,39 +153,6 @@ Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 身份验证器用以在浏览器中生成二步认证代码。Encrypting your secrets is strongly recommended, especially if you are logged into a Google account.
 
-## 安全类
-
-1、[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
-
-免费的广告拦截程序，享受没有恼人广告的网络世界，你值得拥有。
-
-2、[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-
-轻松快捷地管理和切换多个代理设置。穿越GFW，幸福千万家。
-
-3、[1password](https://1password.com/)
-
-管理密码工具的扩展程序，可选的较多。
-
-4、[WebRTC Leak Prevent](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml)
-
-防止Chrome中的WebRTC泄漏，FQ时暴露真实IP。[[关闭浏览器自带的 WebRTC 功能,防止暴露真实ip]](https://chegva.com/3338.html)
-
-5、[Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)
-
-关闭浏览器时清除浏览器隐私数据，历史记录等，功能不少，就是弹窗烦人，这点差评。
-
-6、[Virus Total](https://chrome.google.com/webstore/detail/vt4browsers/efbjojhplkelaegfbieplglfidafgoka)
-
-当你从网上下载某个文件前会弹出安全询问，或者右击某个超链接时，可以方便提交到 VT 进行扫描
-
-7、[Ghelper](http://googlehelper.net/)
-
-科学上网, for developers, cross-border workers, and research institutes to secure and speed Internet surfing.
-
-8、[Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai/relatedN)
-
-身份验证器用以在浏览器中生成二步认证代码。Encrypting your secrets is strongly recommended, especially if you are logged into a Google account.
 
 ## Alfred Workflow
 
