@@ -46,6 +46,10 @@
 
   - `cp ~/Downloads/iterm2.json ~/Library/Application\ Support/iTerm2/DynamicProfiles/`
 
+  iterm 新建tab时添加标识颜色：
+
+  - `iTerm → Scripts → Manage → import auto-tab-color.py scprit`
+
   iterm使用：
 
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki)
