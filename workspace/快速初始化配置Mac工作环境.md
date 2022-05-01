@@ -249,6 +249,7 @@
 
 - [ColorSnapper](https://colorsnapper.com/)
 
+- [Timer RH on the Mac App Store](https://apps.apple.com/us/app/red-hot-timer/id929960914)：定时闹钟
 
 ### 参考：
 
