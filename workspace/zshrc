@@ -196,15 +196,22 @@ alias lvim="vim -c \"normal '0\""  # 编辑vim最近打开的文件
 alias tf='tail -f '  # 快速查看文件末尾输出
 alias mtr=/usr/local/sbin/mtr
 alias git='LANG=en_GB git' # Mac git中文提示改为英文
-alias gst='git st'
-alias gpl='git pull'
-alias gdf='git diff'
-alias gad='git add *'
-alias gps='git push'
-alias grh='git reset --soft HEAD^'
-alias gba='git branch -a'
-alias gpur='git pull upstream master --rebase'
-# batch git pull repositories
+alias gin='git init'    # 初始化仓库
+alias gst='git st'      # 查看状态 
+alias gdf='git diff'    # 查看修改内容
+alias gad='git add *'   # 添加到暂存区
+gci(){ git ci -am "$*"; } # 提交到本地仓库
+alias glg='git lg'      # 查看提交历史
+alias grg='git reflog'  # 查看操作历史
+alias gco='git checkout -- '        # 放弃修改，添加至暂存区
+alias grh='git reset HEAD^'  # 回退到上一版本
+#alias  gra ='git remote add' # 添加远程地址
+alias gpl='git pull'    # 更新仓库  
+alias gba='git branch -a' # 查看分支
+alias gbb='git branch -b' # 创建并切换到分支
+alias gps='git push'    # 提交远程仓库
+alias gpur='git pull upstream master --rebase' # 更新关联的上游项目
+# 批量更新多个仓库
 alias gpa="find . -maxdepth 3 -name .git -type d | rev | cut -c 6- | rev | xargs -I {} git -C {} pull"
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
 alias noproxy="unset ALL_PROXY"
