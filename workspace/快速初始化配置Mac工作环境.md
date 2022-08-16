@@ -9,6 +9,8 @@
 
 - [油管：Mac入门教堂](https://www.youtube.com/watch?v=2lJaUjPyUBM&list=PLlgjPYA-Byn_Y76iuJvqK9Gc96tQdk7Yk&index=1)
 
+- [使用迁移助理将内容迁移到一台新的 Mac 上](https://chegva.com/4279.html)
+
 - 触控板：[触控板原来还有这些功能](https://sspai.com/post/44173)
 
 - 屏保、触发角：[Mac自定义动态个性屏幕保护程序](https://chegva.com/3362.html)
@@ -57,6 +59,8 @@
   - [iterm常用快捷键及添加rz、sz传文件功能](https://chegva.com/2776.html)
 
 - Mac包管理工具：[HomeBrew](https://brew.sh/index_zh-cn.html)，被Q可以使用国内站：[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+
+- [MacOS Monterey 12.3 安装python2.7、php、替换Homebrew为国内源](https://chegva.com/5428.html)
 
 - 安装pyenv配置Python环境：[pyenv](https://github.com/pyenv/pyenv)，[MacOS 下利用 pyenv 管理Python 版本和虚拟环境](https://juejin.cn/post/6844903782636060686)
 
@@ -256,6 +260,7 @@
 - [Axure RP - UX Prototypes, Specifications, and Diagrams in One Tool](https://www.axure.com/)
 
 - [墨刀-高效产设研协同平台](https://modao.cc/)
+
 
 ### 参考：
 
