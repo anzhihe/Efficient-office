@@ -9,6 +9,8 @@
 
 - [油管：Mac入门教堂](https://www.youtube.com/watch?v=2lJaUjPyUBM&list=PLlgjPYA-Byn_Y76iuJvqK9Gc96tQdk7Yk&index=1)
 
+- [2022年苹果教育优惠 Mac全系购买指南渠道](https://chegva.com/5415.html)
+
 - [使用迁移助理将内容迁移到一台新的 Mac 上](https://chegva.com/4279.html)
 
 - 触控板：[触控板原来还有这些功能](https://sspai.com/post/44173)
