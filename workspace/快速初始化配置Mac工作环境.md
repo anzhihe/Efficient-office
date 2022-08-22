@@ -31,6 +31,8 @@
 
 - [Mac键盘快捷键](https://chegva.com/2459.html)
 
+- [MacBook 如何在合上盖子后还能继续用外接键盘和显示器工作？](https://www.zhihu.com/question/20484274)
+
 
 ## 2.必备软件配置
 
@@ -258,6 +260,8 @@
 - [ColorSnapper](https://colorsnapper.com/)
 
 - [Timer RH on the Mac App Store](https://apps.apple.com/us/app/red-hot-timer/id929960914)：定时闹钟
+
+- [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704)：Mac保持唤醒状态
 
 - [Axure RP - UX Prototypes, Specifications, and Diagrams in One Tool](https://www.axure.com/)
 
