@@ -77,6 +77,8 @@
 
 - [Snap](https://itunes.apple.com/cn/app/id418073146?mt=12)：应用快捷键调用工具
 
+- [科学上网](https://github.com/haoel/haoel.github.io)
+
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：小飞机，将原来机器上的配置导过来即可
 
 - [v2ray](https://www.v2ray.com/)：这个是飞机厂
