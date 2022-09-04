@@ -79,6 +79,8 @@
 
 - [科学上网](https://github.com/haoel/haoel.github.io)
 
+- [一键安装飞机厂](https://github.com/jinwyp/one_click_script)
+
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)：小飞机，将原来机器上的配置导过来即可
 
 - [v2ray](https://www.v2ray.com/)：这个是飞机厂
