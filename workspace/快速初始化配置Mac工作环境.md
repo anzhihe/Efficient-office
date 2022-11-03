@@ -273,6 +273,8 @@
 
 - [墨刀-高效产设研协同平台](https://modao.cc/)
 
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)：防火墙工具
+
 
 ### 参考：
 
