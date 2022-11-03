@@ -275,6 +275,8 @@
 
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)：防火墙工具
 
+- [Radio Silence](https://radiosilenceapp.com/)：The easiest firewall and network monitor for all Macs
+
 
 ### 参考：
 
