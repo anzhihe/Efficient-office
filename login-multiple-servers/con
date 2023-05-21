@@ -26,7 +26,7 @@ set pass "passwd"
 set relay "relay.chegva.com"
 set machine [lindex $argv 0]
 
-# 启动连接进程
+# 启动连接进程,-noecho 关闭spawn回显
 spawn ssh  -o StrictHostKeyChecking=no -o LogLevel=quiet "$user@$relay"
 set timeout 10
 
