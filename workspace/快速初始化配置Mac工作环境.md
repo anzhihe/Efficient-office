@@ -97,7 +97,9 @@
 
 - [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
 
-- [Jietu](https://jietu.qq.com/)：便捷的截图工具
+- [Jietu](https://jietu.qq.com/)：便捷的截图工具,M1用不了
+
+- [Snipaste](https://zh.snipaste.com/download.html)：简洁好用的截图工具，M1可用
 
 - [Xnip](https://xnipapp.com/)：滚动截图工具
 
