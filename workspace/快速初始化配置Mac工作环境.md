@@ -209,6 +209,8 @@
 
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)：支持多种数据库的管理工具
 
+- [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
+
 - [Dash](https://kapeli.com/dash)：API Documentation Browser and Code Snippet Manager
 
 - [Beyond Compare](https://www.scootersoftware.com/)：文件对比工具
