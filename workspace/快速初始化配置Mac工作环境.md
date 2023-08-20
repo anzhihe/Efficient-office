@@ -259,6 +259,8 @@
 
 - [FDM](https://www.freedownloadmanager.org/zh/)：开源好用的小众下载器
 
+- [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html): 整站下载工具
+
 - [FOLX 5](https://mac.eltima.com/download-manager.html)：Mac老牌下载器
 
 - [Motrix](https://motrix.app/zh-CN/)：开源全能下载器
