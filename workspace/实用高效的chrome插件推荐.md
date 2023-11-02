@@ -153,6 +153,9 @@ Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 身份验证器用以在浏览器中生成二步认证代码。Encrypting your secrets is strongly recommended, especially if you are logged into a Google account.
 
+9、[RoboForm Password Manager](https://chromewebstore.google.com/detail/roboform-password-manager/pnlccmojcmeohlpggmfnbbiapkmbliob)
+
+密码生成管理，通过记住密码和自动登录网站让您的生活更轻松、更方便
 
 ## Alfred Workflow
 
