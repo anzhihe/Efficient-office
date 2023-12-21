@@ -129,6 +129,8 @@
 
 - [Clearview](https://xclient.info/s/clearview.html)：Pdf阅读器
 
+- [PDF Export - PDF Editor & Scan](https://apps.apple.com/us/app/pdf-export-pdf-editor-scan/id633275113)
+
 - [Smart Converter Pro](https://www.shedworx.com/smart-converter-pro)：格式转换
 
 - [Any Video Converter Pro](https://www.any-video-converter.com/products/for_mac/)
