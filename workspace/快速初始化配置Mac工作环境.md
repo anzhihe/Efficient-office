@@ -131,6 +131,8 @@
 
 - [PDF Export - PDF Editor & Scan](https://apps.apple.com/us/app/pdf-export-pdf-editor-scan/id633275113)
 
+- [CHM Sharp(CHM阅读器)](https://apps.apple.com/cn/app/chm-sharp-chm%E9%98%85%E8%AF%BB%E5%99%A8/id467098001)
+
 - [Smart Converter Pro](https://www.shedworx.com/smart-converter-pro)：格式转换
 
 - [Any Video Converter Pro](https://www.any-video-converter.com/products/for_mac/)
