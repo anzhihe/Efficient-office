@@ -303,3 +303,4 @@
 - [2020 搞个 Mac 玩玩吧！](https://mp.weixin.qq.com/s/HpxzVOZYhm0flf3ziANcGg)
 - [推荐一些 Mac 上比较好用的软件](https://mp.weixin.qq.com/s/Q2IEE4t3naR6j3iP78V29g)
 - [Mac工作使用](https://chegva.com/tag/mac/)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
