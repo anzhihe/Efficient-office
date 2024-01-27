@@ -119,6 +119,8 @@
 
 - [Bartender](https://www.macbartender.com/)：图标隐藏
 
+- [Path Finder](https://www.cocoatech.io/): 好用的Finder加强软件
+
 - [Typora](https://www.typora.io/)：Markdown、文档编辑器，[Markdown学习笔记
 ](https://chegva.com/280.html)
 
