@@ -19,59 +19,63 @@
 
 让你的 Chrome 摇身一变成 The Hacker's Browser，装逼神器不容置疑。[[Chrome神器Vimium使用]](https://chegva.com/2929.html)
 
-4、[全能启动器 - Steward Plus](https://chrome.google.com/webstore/detail/steward-plus/dnkhdiodfglfckibnfcjbgddcgjgkacd)
+4、[WowTab](https://wowtab.microsoft.com/)
+
+专注效率提升,打造浏览器主页新形态
+
+5、[全能启动器 - Steward Plus](https://chrome.google.com/webstore/detail/steward-plus/dnkhdiodfglfckibnfcjbgddcgjgkacd)
 
 启动器/便捷管理扩展/应用/标签/历史记录等，不占用 New Tab 版: Steward，功能很多丫。
 
-5、[简悦 - SimpRead](http://ksria.com/simpread/)
+6、[简悦 - SimpRead](http://ksria.com/simpread/)
 
 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。强迫症患者的福音！
 
-6、[Google文档、表格及幻灯片的Office编辑扩展程序](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
+7、[Google文档、表格及幻灯片的Office编辑扩展程序](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj)
 
 可以在 chrome 中查看和编辑Microsoft Word、Excel和PowerPoint文件 - 无需在您的计算机上安装Office，屌得一匹。
 
-7、 [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+8、[Free Download Manager](https://www.freedownloadmanager.org/zh/)
 
 好用的开源下载器，比迅雷之流好不少啊。
 
-8、[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
+9、[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
 
 冻结暂时用不到的标签页，以便释放系统资源，实用小工具。
 
-9、[书签侧边栏](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh)
+10、[书签侧边栏](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh)
 
 在浏览器侧边管理书签栏，体验还是不错的。
 
-10、[自定义光标](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale)
+11、[自定义光标](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale)
 
 Chrome 自定义光标,使用酷炫的免费鼠标光标自定义使用Chrome浏览器的体验。
 
-11、[图片助手ImageAssistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
+12、[图片助手ImageAssistant](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
 
 一款用于嗅探、分析网页图片并提供批量下载等功能及在线收藏、检索、分享服务的浏览器扩展程序。
 
-12、[Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
+13、[Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
 
 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，简单好用的下载图片扩展。
 
-13、[捕捉网页截图 - FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
+14、[捕捉网页截图 - FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
 
 网页截图，选择区域截图
 
-14、[Tree Style Histyle](https://chrome.google.com/webstore/detail/tree-style-history/khcenbpnhbeplojhaolbpldmoppicold)
+15、[Tree Style Histyle](https://chrome.google.com/webstore/detail/tree-style-history/khcenbpnhbeplojhaolbpldmoppicold)
 
 树状展示浏览器历史 (For Edge / Chromium / Chrome)
 
-15、[Omni](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi)
+16、[Omni](https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi)
 
 Chrome 快捷键管理工具，Bookmark, History, & Tab Manager。
 
-16、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
+17、[悬浮画中画播放器](https://chrome.google.com/webstore/detail/%E6%82%AC%E6%B5%AE%E7%94%BB%E4%B8%AD%E7%94%BB%E6%92%AD%E6%94%BE%E5%99%A8/gdcfkpenohoihodlddbcgpdjhmdjepnb?hl=zh-CN)
 
-17、[视频下载器 - CoCoCut ](https://chrome.google.com/webstore/detail/video-downloader-cococut/gddbgllpilhpnjpkdbopahnpealaklle)
+18、[视频下载器 - CoCoCut ](https://chrome.google.com/webstore/detail/video-downloader-cococut/gddbgllpilhpnjpkdbopahnpealaklle)
 
-18、[Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
+19、[Stream Recorder - download HLS as MP4](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 
 ## 工具类
 
