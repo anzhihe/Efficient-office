@@ -19,9 +19,9 @@
 
 让你的 Chrome 摇身一变成 The Hacker's Browser，装逼神器不容置疑。[[Chrome神器Vimium使用]](https://chegva.com/2929.html)
 
-4、[WowTab](https://wowtab.microsoft.com/)
+4、[iTab](https://itab.link/)
 
-专注效率提升,打造浏览器主页新形态
+免费无广告的组件式浏览器主页
 
 5、[全能启动器 - Steward Plus](https://chrome.google.com/webstore/detail/steward-plus/dnkhdiodfglfckibnfcjbgddcgjgkacd)
 
