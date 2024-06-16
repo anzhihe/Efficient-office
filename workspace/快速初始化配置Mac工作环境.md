@@ -95,6 +95,8 @@
 - [aText](https://www.trankynam.com/atext/)：输入增强工具，[高效文本增强工具–aText
 ](https://chegva.com/4196.html)
 
+- [Easydict](https://github.com/tisfeng/Easydict): 简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典
+
 - [Snagit](https://www.techsmith.com/screen-capture.html)：录屏和截图工具
 
 - [Jietu](https://jietu.qq.com/)：便捷的截图工具,M1用不了
