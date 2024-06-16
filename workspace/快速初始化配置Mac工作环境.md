@@ -123,6 +123,8 @@
 
 - [Path Finder](https://www.cocoatech.io/): 好用的Finder加强软件
 
+- [AIDente](https://apphousekitchen.com/): Mac电池优化神器
+
 - [Typora](https://www.typora.io/)：Markdown、文档编辑器，[Markdown学习笔记
 ](https://chegva.com/280.html)
 
