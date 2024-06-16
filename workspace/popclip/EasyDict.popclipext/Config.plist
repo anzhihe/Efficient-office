@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>easydict.applescript</string>
+			<key>Title</key>
+			<string>Easydict</string>
+			<key>Image File</key>
+			<string>easydict.png</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Activate Easydict with the selected text.</string>
+	<key>Extension Identifier</key>
+	<string>com.chegva.popclip.extension.easydict</string>
+	<key>Extension Name</key>
+	<string>Easydict</string>
+</dict>
+</plist>
