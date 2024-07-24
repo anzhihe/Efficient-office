@@ -60,6 +60,7 @@
 
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki)
   - [打造漂亮又好用的zsh环境](https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f)
+  - [舒适美观的mac终端, iTerm+zsh+powerlevel9k+vim+virtualenv](https://cloud.tencent.com/developer/article/1514663)
   - [iterm常用快捷键及添加rz、sz传文件功能](https://chegva.com/2776.html)
 
 - Mac包管理工具：[HomeBrew](https://brew.sh/index_zh-cn.html)，被Q可以使用国内站：[清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
