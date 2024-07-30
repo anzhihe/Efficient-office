@@ -198,8 +198,6 @@
 
 - [Skype](http://skype.gmw.cn/down/skype-for-computers.html)：老牌好用的通讯app
 
-- [Potato](https://potato.im/)
-
 - [Postman](https://www.postman.com/)：API调试工具
 
 - [Apipost - API 文档、设计、调试、自动化测试一体化协作平台](https://www.apipost.cn/)
@@ -297,6 +295,10 @@
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)：防火墙工具
 
 - [Radio Silence](https://radiosilenceapp.com/)：The easiest firewall and network monitor for all Macs
+
+- [Jump Desktop | Remote Desktop](https://jumpdesktop.com/) 
+
+- [Microsoft Remote Desktop](http://macadmins.software)：The direct download link is: https://go.microsoft.com/fwlink/?linkid=868963 
 
 
 ### 参考：
