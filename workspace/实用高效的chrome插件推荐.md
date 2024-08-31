@@ -171,6 +171,8 @@ Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 #### 参考：
 
+- [Crx搜搜 - 一个牛X的扩展和应用商店](https://www.crxsoso.com/)
+
 - [谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 - [实用高效的 Alfred Workflows 收集推荐](https://github.com/anzhihe/Efficient-office/tree/master/Alfred-Workflows)
